@@ -12,5 +12,5 @@ As always, use your favorite text editor and adjust the path.
 ## IRC
 
 ### Tell
-To remind someone later, use: `.tell <message>`.
+To remind someone later, use: `.tell <user> <message>`.
 
