@@ -14,3 +14,12 @@ As always, use your favorite text editor and adjust the path.
 ### Tell
 To remind someone later, use: `.tell <user> <message>`.
 
+## To Do
+
+- Install [Alex]() on everything
+
+## Shell stuff
+
+- Use jq to get pretty cool results.
+
+    curl https://api.github.com/repos/ipfs/http-api-spec/pulls | jq '.[] | .title, .url'
