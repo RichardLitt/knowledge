@@ -10,7 +10,7 @@ Here's the trick. Add this code:
         "class": "sidebar_label",
         "color": [0, 0, 0],
         "font.bold": false,
-        "font.size": 30, // Change this to up the font size.
+        "font.size": 30
     },
     {
         "class": "sidebar_tree",
@@ -18,6 +18,8 @@ Here's the trick. Add this code:
     }
 ]
 ```
+
+Change `font.size` or `row_padding` as needed.
 
 To this file: `~/Library/Application Support/Sublime Text 3/Packages/User/Default.sublime-theme`.
 

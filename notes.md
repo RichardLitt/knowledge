@@ -23,3 +23,12 @@ To remind someone later, use: `.tell <user> <message>`.
 - Use jq to get pretty cool results.
 
     curl https://api.github.com/repos/ipfs/http-api-spec/pulls | jq '.[] | .title, .url'
+
+## Markdown guide
+
+- [ ] To Do
+- [x] Done
+- [+] Prioritize
+- [>] Offloading until later
+- [@RichardLitt] Waiting on @RichardLitt
+- [~] Begun
