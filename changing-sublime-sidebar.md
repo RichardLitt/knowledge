@@ -14,7 +14,7 @@ Here's the trick. Add this code:
     },
     {
         "class": "sidebar_tree",
-        "row_padding": [5,15] // Change 15 to make the padding bigger or smaller
+        "row_padding": [5,15]
     }
 ]
 ```
