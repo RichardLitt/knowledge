@@ -1,4 +1,5 @@
 # Notes
+
 > A personal list of things that are useful to remember, code wise.
 
 To use best, I suggest setting up this alias in `.bash_profile`:
