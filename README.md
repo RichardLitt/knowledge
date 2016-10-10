@@ -2,7 +2,7 @@
 
 > 💡 document everything
 
-This repository is for useful documents. Please edit them.
+This repository is for useful documents. Please edit them. Like this!
 
 ### What?
 
