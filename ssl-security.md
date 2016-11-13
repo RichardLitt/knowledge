@@ -21,9 +21,19 @@ I could use Cloudflare as a CDN. It offers free SSL for some browsers.
 
 ## Possibilities
 
+### Move to GitLab Pages
+
+[Source](https://docs.gitlab.com/ee/pages/README.html#secure-your-custom-domain-website-with-tls)
+
+This is a lot of overhead, and you'll lose GitHub integration and the community there. This should be the last possible step, for the sake of keeping overhead and maintenance low.
+
 ### Move to Cloudflare
 
-This isn't great, becuase it still doesn't work for the main domain on GitHub.
+Guides:
+- [Cloudflare](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/)
+- [Random guide](https://www.goyllo.com/github/pages/free-cloudflare-ssl-for-custom-domain/)
+
+This isn't great, becuase it still doesn't work for the main domain on GitHub [1](https://www.quora.com/What-is-the-difference-between-Lets-Encrypt-and-Universal-SSL). However, it would use [Let's Encrypt](https://letsencrypt.org/getting-started/), which I've heard good things about. This probably isn't a good enough reason to switch.
 
 Open questions:
 - Which browsers does Cloudflare provide SSL for?
@@ -33,13 +43,14 @@ Open questions:
 
 ### Use Netlify.
 
-Seems to be the best option.
+Seems to be the best option. It is currently being used by [@mogden](https://twitter.com/stevekinney/status/797626436127522816), and doesn't take any extra steps but changing over DNS and adding to Netlify. This will also allow you to continue to publish to GitHub just fine - just add a Gemfile.
 
 ##### Steps
 
 Using https://www.netlify.com/docs/custom-domains.
 
 - [x] Set up Netlify
+- [x] Add Gemfile to richardlitt.github.com
 - [~] Change DNS servers _Waiting for confirmation, can take up to 24 hours._
 - [ ] Enable security
 
