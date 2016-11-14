@@ -78,3 +78,12 @@ Yes.
 
 [No.](http://www.pcnames.com/articles/the-difference-between-dns-and-name-servers).
 
+DNS stands for _Domain Name System_, and not _Domain Name Servers_. This can be confusing. It looks like, on Hover, if you're going to use their DNS settings, you need to have the Nameservers pointed to Hover's nameservers (but, now that I think about it, this doesn't apply to MX records.)
+
+## Steps taken
+
+- I updated my Nameservers on Hover for Burntfen.com to point to Cloudflare. I did not re-update these when I decided to stop using Cloudflare.
+- I added an @ record, which I assume is the same as `burntfen.com`, for pointing to netlify's IP.
+- I added a CNAME record pointing to `burntfen.netlify.com`, assuming that `burntfen` is the name of my project (which I edited to be) and not the domain name minus the TLD.
+- I waited for these to propogate. There was no downtime due to Cloudflare, but the @ and CNAME records didn't propogate when the other ones did. It hasn't been 24 hours as of writing this, so this may still be an issue with me waiting.
+- I changed the nameservers back from Cloudflare - as I am not going with that option anymore - and moved them to Hover again.
