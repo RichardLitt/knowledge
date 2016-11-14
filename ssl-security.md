@@ -35,6 +35,8 @@ Guides:
 
 This isn't great, becuase it still doesn't work for the main domain on GitHub [1](https://www.quora.com/What-is-the-difference-between-Lets-Encrypt-and-Universal-SSL). However, it would use [Let's Encrypt](https://letsencrypt.org/getting-started/), which I've heard good things about. This probably isn't a good enough reason to switch.
 
+Cloudflare is apparently also super annoying for people running TOR, but I'm not sure why. [2](https://github.com/opensourcedesign/opensourcedesign.github.io/issues/31).
+
 Open questions:
 - Which browsers does Cloudflare provide SSL for?
 - Should I use LetsEncrypt instead? Why? 
