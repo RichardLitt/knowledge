@@ -2,22 +2,37 @@
 
 I want to update [burntfen.com](http://burntfen.com) to HTTPS. This would:
 
- - Make it look more professional.
- - Ensure that it comes from me by adding an extra step of validation.
- - Stop man in the middle attacks.
+- Make it look more professional.
+- Ensure that it comes from me by adding an extra step of validation.
+- Control: Some WIFI providers will try to inject their ads into your site. HTTPS protects you and your users. This will also stop man-in-the-middle attacks.
+- SEO: Google gives an SEO bonus to sites with HTTPS support.
+- Analytics: You will only see inbound refereres from sites using HTTPS if your own site use HTTPS.
+- Performance: Modern browsers support HTTP 2.0, only for sites with HTTPS enabled. For some sites HTTP 2 can give significant performance improvements.
 
-Currently, burntfen.com is hosted on GitHub Pages. The repo is at https://github.com/RichardLitt/richardlitt.github.com. GitHub pages [does not support SSL (secure socket layer) for custom domains.](https://github.com/isaacs/github/issues/156)
+Currently, burntfen.com is hosted on GitHub Pages. The repo is at [RichardLitt/richardlitt.github.com](https://github.com/RichardLitt/richardlitt.github.com). GitHub Pages [does not support SSL (secure socket layer) for custom domains.](https://github.com/isaacs/github/issues/156)
 
-I could use Cloudflare as a CDN. It offers free SSL for some browsers.
+## Table of Contents
+
+- [Requirements](#requirements)
+- [Possibilities](#possibilities)
+  - [Move to GitLab Pages](#move-to-gitlab-pages)
+  - [Move to Cloudflare](#move-to-cloudflare)
+  - [Use Netlify.](#use-netlify)
+      - [Steps](#steps)
+- [Questions](#questions)
+  - [Is SSL Security the same as using HTTP and switching to HTTPS?](#is-ssl-security-the-same-as-using-http-and-switching-to-https)
+  - [Does this matter for static sites?](#does-this-matter-for-static-sites)
+  - [Are DNS and Nameservers the same?](#are-dns-and-nameservers-the-same)
+- [Steps taken](#steps-taken)
 
 ## Requirements
 
-- Https://burnfen.com should work.
+- https://burnfen.com should work.
 - Going to http:// should redirect to https:// for all links.
 - There should be a green lock in the browser bar.
 - Free (no monetary cost)
 - Easy (no maintenance cost)
-- Maintain hosting on GitHub
+- Maintain hosting remains on GitHub
 
 ## Possibilities
 
@@ -53,8 +68,8 @@ Using https://www.netlify.com/docs/custom-domains.
 
 - [x] Set up Netlify
 - [x] Add Gemfile to richardlitt.github.com
-- [~] Change DNS servers _Waiting for confirmation, can take up to 24 hours._
-- [ ] Enable security
+- [x] Change DNS servers (but not nameservers)
+- [x] Enable security
 
 ## Questions
 
@@ -87,3 +102,5 @@ DNS stands for _Domain Name System_, and not _Domain Name Servers_. This can be 
 - I added a CNAME record pointing to `burntfen.netlify.com`, assuming that `burntfen` is the name of my project (which I edited to be) and not the domain name minus the TLD.
 - I waited for these to propogate. There was no downtime due to Cloudflare, but the @ and CNAME records didn't propogate when the other ones did. It hasn't been 24 hours as of writing this, so this may still be an issue with me waiting.
 - I changed the nameservers back from Cloudflare - as I am not going with that option anymore - and moved them to Hover again.
+- This fixed things. I then added security on netlify.
+- I now have SSL.
