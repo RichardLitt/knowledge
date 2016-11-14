@@ -71,3 +71,8 @@ Yes.
 - Improves Google Rankings.
 - Makes your site invulnerable to man-in-the-middle attacks (think Airports, think people redirecting or changing traffic)
 - Makes your site look better to others (marketing).
+
+### Are DNS and Nameservers the same?
+
+[No.](http://www.pcnames.com/articles/the-difference-between-dns-and-name-servers).
+
