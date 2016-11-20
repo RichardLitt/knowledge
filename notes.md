@@ -33,3 +33,7 @@ To remind someone later, use: `.tell <user> <message>`.
 - [>] Offloading until later
 - [@RichardLitt] Waiting on @RichardLitt
 - [~] Begun
+
+### Keyboard mapping
+
+User `<kbd>esc</kbd>` to show keys like <kbd>esc</kbd>.
