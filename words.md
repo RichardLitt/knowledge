@@ -14,3 +14,26 @@ tor, n. a hill or rocky peak. Old English torr, perhaps of Celtic origin and rel
 incommensurate, adj. [ predic. ] (incommensurate with) out of keeping or proportion with. mid 17th cent.: from late Latin commensuratus, from com- ‘together’ + mensuratus, past participle of mensurare ‘to measure.’
 alterity, n. the state of being other or different; otherness. mid 17th cent.: from late Latin alteritas, from alter ‘other.’
 olid, adj. smelling extremely unpleasant. late 17th cent.: from Latin olidus ‘smelling,’ from olere ‘to smell.’
+mridangas
+sistra
+hyssop
+arrack
+ladyship
+gambeson
+sumpter
+gazehound
+couchant
+wood
+opal
+bloodstone
+morganite
+cat's-eye
+rhodolite
+rosetone
+tourmaline
+jasper
+lamiae
+tumbrel
+hobliar
+palisse
+sorrowing
