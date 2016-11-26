@@ -29,3 +29,10 @@ cat repos | xargs -n1 hub clone
 ```
 
 This will clone. `git clone` doesn't work because _something about aliases_.
+
+### Open last file in _posts
+
+```sh
+subl $(find `pwd`/_posts | tail -1)
+subl $(ls -d -1 $PWD/_posts/** | tail -1)
+```

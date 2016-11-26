@@ -37,3 +37,7 @@ To remind someone later, use: `.tell <user> <message>`.
 ### Keyboard mapping
 
 User `<kbd>esc</kbd>` to show keys like <kbd>esc</kbd>.
+
+## Interpersonal skills
+
+When ever you ping a coworker, think about what they might be doing at the moment before doing it. Don’t waste their time. 
