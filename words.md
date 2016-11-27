@@ -37,3 +37,4 @@ tumbrel
 hobliar
 palisse
 sorrowing
+obviate, v. remove (a need or difficulty): the Venetian blinds obviated the need for curtains.
