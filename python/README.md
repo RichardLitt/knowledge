@@ -23,3 +23,4 @@ menu_item = viking_chorus(menu_item)
 ### name = main
 
 The `__name__ == '__main__'` Python idiom is used to ensure that a script is started only when the script is executed directly. Otherwise, it is skipped.
+

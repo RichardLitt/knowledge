@@ -41,3 +41,7 @@ User `<kbd>esc</kbd>` to show keys like <kbd>esc</kbd>.
 ## Interpersonal skills
 
 When ever you ping a coworker, think about what they might be doing at the moment before doing it. Don’t waste their time. 
+
+## cookies
+
+You can access cookies in `document.cookie`. You can do this in the console log, too!
