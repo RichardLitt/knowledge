@@ -40,4 +40,5 @@ sorrowing
 obviate, v. remove (a need or difficulty): the Venetian blinds obviated the need for curtains.
 dirigisme, n. state control of economic and social matters.
 caudillos, n. (in Spanish-speaking regions) a military or political leader.
+cagoule, n. a lightweight, hooded, thigh-length waterproof jacket.
 
