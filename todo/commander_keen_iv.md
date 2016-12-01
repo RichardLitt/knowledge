@@ -1,0 +1,23 @@
+## Commander Fucking Keen
+
+- [x] Easy, all levels and Hand
+- [x] Easy, all points and Hand
+- [x] Easy, one life
+- [x] Easy, one life, all levels
+- [ ] Easy, one life, all levels and Hand
+- [ ] Easy, one life, all points
+- [ ] Easy, one life, all points and Hand
+- [x] Normal, all levels and Hand
+- [x] Normal, all points and Hand
+- [ ] Normal, one life
+- [ ] Normal, one life, all levels
+- [ ] Normal, one life, all levels and Hand
+- [ ] Normal, one life, all points
+- [ ] Normal, one life, all points and Hand
+- [x] Hard, all levels and Hand
+- [x] Hard, all points and Hand
+- [ ] Hard, one life
+- [ ] Hard, one life, all levels
+- [ ] Hard, one life, all levels and Hand
+- [ ] Hard, one life, all points
+- [ ] Hard, one life, all points and Hand
