@@ -41,4 +41,5 @@ obviate, v. remove (a need or difficulty): the Venetian blinds obviated the need
 dirigisme, n. state control of economic and social matters.
 caudillos, n. (in Spanish-speaking regions) a military or political leader.
 cagoule, n. a lightweight, hooded, thigh-length waterproof jacket.
-
+catalytic, adj. relating to or involving the action of a catalyst.
+haar, n. a cold sea fog on the east coast of England or Scotland. late 17th cent.: perhaps from Old Norse hárr ‘hoar, hoary’.

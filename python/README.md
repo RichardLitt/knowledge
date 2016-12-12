@@ -24,3 +24,13 @@ menu_item = viking_chorus(menu_item)
 
 The `__name__ == '__main__'` Python idiom is used to ensure that a script is started only when the script is executed directly. Otherwise, it is skipped.
 
+### Defining app
+
+It is totally OK to wrap `app` a couple of times.
+
+```
+app = Flask(__name__)
+
+manager = Manager(app)
+bootstrap = Bootstrap(app)
+```
