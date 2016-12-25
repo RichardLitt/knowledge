@@ -43,3 +43,18 @@ caudillos, n. (in Spanish-speaking regions) a military or political leader.
 cagoule, n. a lightweight, hooded, thigh-length waterproof jacket.
 catalytic, adj. relating to or involving the action of a catalyst.
 haar, n. a cold sea fog on the east coast of England or Scotland. late 17th cent.: perhaps from Old Norse hárr ‘hoar, hoary’.
+nostrum, n. a medicine, especially one that is not considered effective, prepared by an unqualified person. early 17th century: from Latin, used in the sense ‘(something) of our own making,’ neuter of noster ‘our.’
+Proprioception, n. from Latin proprius, meaning "one's own", "individual", and capio, capere, to take or grasp, is the sense of the relative position of neighbouring parts of the body and strength of effort being employed in movement.
+hobnail. n. a short heavy-headed nail used to reinforce the soles of boots.
+dasymetric, adj. "The dasymetric map is a method of thematic mapping, which uses areal symbols to spatially classify volumetric data." - Wikipedia
+chloropleth adj. a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed on the map, such as population density or per-capita income. (from Greek χῶρος ("area/region") + πλῆθος ("multitude"))
+prorate v. allocate, distribute, or assess pro rata
+pro rata adv., adj. proportional
+
+
+
+
+
+
+
+
