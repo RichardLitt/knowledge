@@ -50,7 +50,7 @@ dasymetric, adj. "The dasymetric map is a method of thematic mapping, which uses
 chloropleth adj. a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed on the map, such as population density or per-capita income. (from Greek χῶρος ("area/region") + πλῆθος ("multitude"))
 prorate v. allocate, distribute, or assess pro rata
 pro rata adv., adj. proportional
-
+squamous, adj. covered with or characterized by scales. late Middle English: from Latin squamosus, from squama ‘scale.’
 
 
 
