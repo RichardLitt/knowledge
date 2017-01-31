@@ -51,6 +51,12 @@ chloropleth adj. a thematic map in which areas are shaded or patterned in propor
 prorate v. allocate, distribute, or assess pro rata
 pro rata adv., adj. proportional
 squamous, adj. covered with or characterized by scales. late Middle English: from Latin squamosus, from squama ‘scale.’
+teratogen, n., an agent or factor that causes malformation of an embryo.
+teratogenic, adj., of, relating to, or causing developmental malformations
+crapulent, adj ., of or relating to the drinking of alcohol or drunkenness.
+floreted, adj., decorated with small flowers
+bromides, n., a trite and unoriginal idea or remark, typically intended to soothe or placate: feel-good bromides create the illusion of problem solving. Ex: "When early Americans wrote things like “Eternal vigilance is the price of liberty,” they did not do so to provide bromides for future bumper stickers."
+
 
 
 
