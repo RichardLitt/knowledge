@@ -57,11 +57,5 @@ crapulent, adj ., of or relating to the drinking of alcohol or drunkenness.
 floreted, adj., decorated with small flowers
 bromides, n., a trite and unoriginal idea or remark, typically intended to soothe or placate: feel-good bromides create the illusion of problem solving. Ex: "When early Americans wrote things like “Eternal vigilance is the price of liberty,” they did not do so to provide bromides for future bumper stickers."
 diktat. n. an order or decree imposed by someone in power without popular consent: a diktat from the Bundestag | he can disband the legislature and rule by diktat.
-
-
-
-
-
-
-
-
+expatiate - speak or write at length or in detail
+skerrik - A very small amount or portion, particularly used in the negative and chiefly in British and Australian English.
