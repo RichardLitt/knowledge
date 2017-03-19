@@ -61,3 +61,4 @@ expatiate - speak or write at length or in detail
 skerrik - A very small amount or portion, particularly used in the negative and chiefly in British and Australian English.
 theophany - a visible manifestation to humankind of God or a god.
 Candlemas, n., a Christian festival held on February 2 to commemorate the purification of the Virgin Mary (after childbirth, according to Jewish law) and the presentation of Christ in the Temple. Candles were traditionally blessed at this festival.
+ethogram - a catalog or table of all the different kinds of behavior or activity observed in an animal.
