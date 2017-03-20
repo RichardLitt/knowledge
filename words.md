@@ -64,3 +64,11 @@ Candlemas, n., a Christian festival held on February 2 to commemorate the purifi
 ethogram - a catalog or table of all the different kinds of behavior or activity observed in an animal.
 maladaptations - not providing adequate or appropriate adjustment to the environment or situation.
 lochia - the normal discharge from the uterus after childbirth.
+puerpirium - the period of about six weeks after childbirth during which the mother's reproductive organs return to their original nonpregnant condition.
+etiology - the cause, set of causes, or manner of causation of a disease or condition; the investigation or attribution of the cause or reason for something, often expressed in terms of historical or mythical explanation.
+foundling - an infant that has been abandoned by its parents and is discovered and cared for by others.
+childbed fever - a disease charac­teristic of and limited to maternity patients, for whose origin the puerperal state and a specific causal moment are necessary.
+dispose - arrange in a particular position.
+glacis - a gently sloping bank, in particular one that slopes down from a fort, exposing attackers to the defenders' missiles. ety: late 17th cent.: from French, from Old French glacier ‘to slip,’ from glace ‘ice,’ based on Latin glacies .
+resorption - the process or action by which something is reabsorbed.
+denunciation - public condemnation of someone or something.
