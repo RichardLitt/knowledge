@@ -63,3 +63,4 @@ theophany - a visible manifestation to humankind of God or a god.
 Candlemas, n., a Christian festival held on February 2 to commemorate the purification of the Virgin Mary (after childbirth, according to Jewish law) and the presentation of Christ in the Temple. Candles were traditionally blessed at this festival.
 ethogram - a catalog or table of all the different kinds of behavior or activity observed in an animal.
 maladaptations - not providing adequate or appropriate adjustment to the environment or situation.
+lochia - the normal discharge from the uterus after childbirth.
