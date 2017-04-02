@@ -72,3 +72,4 @@ dispose - arrange in a particular position.
 glacis - a gently sloping bank, in particular one that slopes down from a fort, exposing attackers to the defenders' missiles. ety: late 17th cent.: from French, from Old French glacier ‘to slip,’ from glace ‘ice,’ based on Latin glacies .
 resorption - the process or action by which something is reabsorbed.
 denunciation - public condemnation of someone or something.
+vermivorous - feeding on earthworm
