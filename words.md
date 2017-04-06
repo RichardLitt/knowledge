@@ -73,3 +73,5 @@ glacis - a gently sloping bank, in particular one that slopes down from a fort, 
 resorption - the process or action by which something is reabsorbed.
 denunciation - public condemnation of someone or something.
 vermivorous - feeding on earthworm
+anuran - a tailless amphibian of the order Anura; a frog or toad.
+onymity - The condition of being onymous, or named.
