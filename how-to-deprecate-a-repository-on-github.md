@@ -4,7 +4,9 @@ Once, you had a shining, beautiful repo, full of hope and joy. But now you need 
   
 GitHub needs to get around to making a `DEPRECATED` tag. They haven’t done this yet, although there’s clearly a gross amount of interest - just look at [isaacs/github#144.](https://github.com/isaacs/github/issues/144). 
 
-There’s a few reasons you could be deprecating a repository, and the steps you should take for them are different. For a project that no one uses, some simple documentation changes should do the trick. For a project that is actively in use which you want to step away from or deprecate entirely, there’s a bit more legwork.
+There’s a few reasons you could be deprecating a repository, and the steps you should take for them are different. For a project that no one uses, some simple documentation changes should do the trick. For a project that is actively in use which you want to step away from or deprecate entirely, there’s a bit more legwork.  
+  
+Note: I have made a [checklist](https://gist.github.com/RichardLitt/741cb6f2fd6c75c0c5f51958160853a9) from this article you can follow. You can edit this article on [GitHub](https://github.com/RichardLitt/knowledge/blob/master/how-to-deprecate-a-repository-on-github.md) or [read it on Medium](https://medium.com/maintainer-io/how-to-deprecate-a-repository-on-github-8f0ceb9155e).
     
 ### Deprecating a project no one uses  
 
