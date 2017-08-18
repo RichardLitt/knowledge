@@ -10,12 +10,13 @@ Think of them like blog posts, but living. This is mainly for my own personal us
 
 ### Contribute
 
-Yes.
+Yes. [Open an issue](https://github.com/RichardLitt/knowledge/issues)!
 
-## See Also
+Excitingly, you can also:
 
-- [Ask me any questions](https://github.com/RichardLitt/ama)
-- [Tell me what to do](https://github.com/RichardLitt/todo)
+### [🛠Join me in making stuff!](https://github.com/RichardLitt/meta)
+### [¿Ask me any questions?!](https://github.com/RichardLitt/ama)
+### [👋 Suggest I do stuff!](https://github.com/RichardLitt/todo)
 
 ### Other Knowledge repositories
 
