@@ -1,7 +1,7 @@
 # Books I want to read
 
-- The Scottish Himalayan Expedition by WH Murray
-- The Chronicles of Narnia (again)
-- So Good They Can't Ignore you
-- Shantaram
-- Theodore Rex
+- _The Scottish Himalayan Expedition by WH Murray_
+- _The Chronicles of Narnia_ (again)
+- _So Good They Can't Ignore you_
+- _Shantaram_
+- _Theodore Rex_

@@ -1,5 +1,7 @@
 # Words
 
+TODO Automatically add words from book notes
+
 These are words I have had to look up recently. I'd like to have a better list so that I can peruse it later.
 
 corrie
