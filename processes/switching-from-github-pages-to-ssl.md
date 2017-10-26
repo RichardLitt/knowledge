@@ -1,15 +1,15 @@
 # SSL Security
 
-I want to update [burntfen.com](http://burntfen.com) to HTTPS. This would:
+Updating to SSL is important:
 
-- Make it look more professional.
-- Ensure that it comes from me by adding an extra step of validation.
+- It makes a website look more professional.
+- Ensure that the website comes from the authorized author adding an extra step of validation.
 - Control: Some WIFI providers will try to inject their ads into your site. HTTPS protects you and your users. This will also stop man-in-the-middle attacks.
 - SEO: Google gives an SEO bonus to sites with HTTPS support.
-- Analytics: You will only see inbound refereres from sites using HTTPS if your own site use HTTPS.
+- Analytics: You will only see inbound referrers from sites using HTTPS if your own site use HTTPS.
 - Performance: Modern browsers support HTTP 2.0, only for sites with HTTPS enabled. For some sites HTTP 2 can give significant performance improvements.
 
-Currently, burntfen.com is hosted on GitHub Pages. The repo is at [RichardLitt/richardlitt.github.com](https://github.com/RichardLitt/richardlitt.github.com). GitHub Pages [does not support SSL (secure socket layer) for custom domains.](https://github.com/isaacs/github/issues/156)
+GitHub Pages [does not support SSL (secure socket layer) for custom domains.](https://github.com/isaacs/github/issues/156) This means that, if you'd like to host a GitHub Pages website using SSL, you'll need to switch to something else.
 
 ## Table of Contents
 
@@ -18,16 +18,15 @@ Currently, burntfen.com is hosted on GitHub Pages. The repo is at [RichardLitt/r
   - [Move to GitLab Pages](#move-to-gitlab-pages)
   - [Move to Cloudflare](#move-to-cloudflare)
   - [Use Netlify.](#use-netlify)
-      - [Steps](#steps)
+- [Process](#process)
 - [Questions](#questions)
   - [Is SSL Security the same as using HTTP and switching to HTTPS?](#is-ssl-security-the-same-as-using-http-and-switching-to-https)
   - [Does this matter for static sites?](#does-this-matter-for-static-sites)
   - [Are DNS and Nameservers the same?](#are-dns-and-nameservers-the-same)
-- [Steps taken](#steps-taken)
 
 ## Requirements
 
-- https://burnfen.com should work.
+- https://website.com should work.
 - Going to http:// should redirect to https:// for all links.
 - There should be a green lock in the browser bar.
 - Free (no monetary cost)
@@ -35,6 +34,8 @@ Currently, burntfen.com is hosted on GitHub Pages. The repo is at [RichardLitt/r
 - Maintain hosting remains on GitHub
 
 ## Possibilities
+
+Here are the different possibilities I have tried. In the end, I went with Netlify.
 
 ### Move to GitLab Pages
 
@@ -48,7 +49,7 @@ Guides:
 - [Cloudflare](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/)
 - [Random guide](https://www.goyllo.com/github/pages/free-cloudflare-ssl-for-custom-domain/)
 
-This isn't great, becuase it still doesn't work for the main domain on GitHub [1](https://www.quora.com/What-is-the-difference-between-Lets-Encrypt-and-Universal-SSL). However, it would use [Let's Encrypt](https://letsencrypt.org/getting-started/), which I've heard good things about. This probably isn't a good enough reason to switch.
+This isn't great, because it still doesn't work for the main domain on GitHub [1](https://www.quora.com/What-is-the-difference-between-Lets-Encrypt-and-Universal-SSL). However, it would use [Let's Encrypt](https://letsencrypt.org/getting-started/), which I've heard good things about. This probably isn't a good enough reason to switch.
 
 Cloudflare is apparently also super annoying for people running TOR, but I'm not sure why. [2](https://github.com/opensourcedesign/opensourcedesign.github.io/issues/31).
 
@@ -62,14 +63,24 @@ Open questions:
 
 Seems to be the best option. It is currently being used by [@mogden](https://twitter.com/stevekinney/status/797626436127522816), and doesn't take any extra steps but changing over DNS and adding to Netlify. This will also allow you to continue to publish to GitHub just fine - just add a Gemfile.
 
-##### Steps
+I've also used it for multiple sites, at this point.
 
-Using https://www.netlify.com/docs/custom-domains.
+## Process
 
-- [x] Set up Netlify
-- [x] Add Gemfile to richardlitt.github.com
-- [x] Change DNS servers (but not nameservers)
-- [x] Enable security
+- [ ] Set up Netlify. Make an account.
+- [ ] Add your site to Netlify from your GitHub Repository. Use the right build commands, such as `jekyll build`, and folder, such as `_site`.
+- [ ] Add Gemfile to your site. It should have these contents, if Jekyll:
+
+```
+source 'https://rubygems.org'
+gem 'jekyll'
+gem 'github-pages', group: :jekyll_plugins
+```
+
+- [ ] Look at the deployed test site, and fix any Mixed Content or CORS issues that HTTPS throws up.
+- [ ] Add a CNAME that points to your root domain: for instance, `nomadasfuck.com`.
+- [ ] Change DNS servers (but not nameservers). Instructions: https://www.netlify.com/docs/custom-domains/
+- [ ] Enable security on Netlify. Force a redirect to https.
 
 ## Questions
 
@@ -94,13 +105,3 @@ Yes.
 [No.](http://www.pcnames.com/articles/the-difference-between-dns-and-name-servers).
 
 DNS stands for _Domain Name System_, and not _Domain Name Servers_. This can be confusing. It looks like, on Hover, if you're going to use their DNS settings, you need to have the Nameservers pointed to Hover's nameservers (but, now that I think about it, this doesn't apply to MX records.)
-
-## Steps taken
-
-- I updated my Nameservers on Hover for Burntfen.com to point to Cloudflare. I did not re-update these when I decided to stop using Cloudflare.
-- I added an @ record, which I assume is the same as `burntfen.com`, for pointing to netlify's IP.
-- I added a CNAME record pointing to `burntfen.netlify.com`, assuming that `burntfen` is the name of my project (which I edited to be) and not the domain name minus the TLD.
-- I waited for these to propogate. There was no downtime due to Cloudflare, but the @ and CNAME records didn't propogate when the other ones did. It hasn't been 24 hours as of writing this, so this may still be an issue with me waiting.
-- I changed the nameservers back from Cloudflare - as I am not going with that option anymore - and moved them to Hover again.
-- This fixed things. I then added security on netlify.
-- I now have SSL.
