@@ -21,3 +21,50 @@ Begin by standing with your back to a wall. Place your heels about a foot away f
 Stretch your toes up as far as possible. Lower your feet back toward the ground. Try to keep your toes from touching the ground. Repeat for 3 sets of 10-15 reps.
 
 [Source](https://www.bodybuilding.com/content/4-stretches-to-combat-shin-splints.html).
+
+## Air Squats
+
+[Youtube](https://www.youtube.com/watch?v=C_VtOYc6j5c)
+
+- shoulder-width stance
+- Hips descend down and back
+- hips descend lower than knees
+- lumbar curve maintained
+- heels down
+- knees in line with toes
+- complete at full hip and knee extension
+
+## Front Squat
+
+[Youtube](https://www.youtube.com/watch?v=m4ytaCJZpl0&list=PLBrgqsGCyn2xQVBgDaemdoK8TJlgSpX0G&index=2)
+
+Same as air squat, with bar.
+
+- Shoulder width stance
+- Hands just outside of shoulders
+- Loose, fingertip grip on the bar
+- elbows high
+- hips descend back and down
+- hips descend lower than knees
+- lumbar curve maintained
+- heels down
+- knees in line with toes
+- complete at full hip and knee extension
+
+## Back Squat
+
+[Youtube](https://www.youtube.com/watch?v=ultWZbUMPL8&list=PLBrgqsGCyn2xQVBgDaemdoK8TJlgSpX0G&index=3)
+
+Same as front squat, with bar behind neck
+
+- Shoulder width stance
+- Bar rests on upper back
+- Hands just outside of shoulders
+- Full grip on the bar
+- elbows pointed back
+- hips descend back and down
+- hips descend lower than knees
+- lumbar curve maintained
+- heels down
+- knees in line with toes
+- complete at full hip and knee extension
