@@ -77,3 +77,4 @@ denunciation - public condemnation of someone or something.
 vermivorous - feeding on earthworm
 anuran - a tailless amphibian of the order Anura; a frog or toad.
 onymity - The condition of being onymous, or named.
+scintilla - a tiny trace or spark of a specified quality or feeling
