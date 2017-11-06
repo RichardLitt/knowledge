@@ -10,3 +10,4 @@ Why do I do take cold showers first thing in the morning?
 - I start the day doing something hard. The rest of the day, I can lean on that thing.
 - It gives me the opportunity to do the haka on a regular basis.
 - "Swallow a live frog every morning, and there'll be nothing worse all day." - Paraphrasing of Mark Twain [SOURCE]
+- Cold water activates the [sympathetic nervous system](https://www.sciencedaily.com/terms/sympathetic_nervous_system.htm). This gives me an opportunity to get into flight or fight mode, and to choose which I am going to do - fight? or fly? I’d rather the former.
