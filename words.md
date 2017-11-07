@@ -79,3 +79,4 @@ anuran - a tailless amphibian of the order Anura; a frog or toad.
 onymity - The condition of being onymous, or named.
 scintilla - a tiny trace or spark of a specified quality or feeling
 kibitz - A Kibitzer is a Yiddish term for a person who offers (often unwanted) advice or commentary. This term can be applied to any activity, but it is most notably used to describe non-participant spectators in contract bridge, chess, go, and many other games. The verb kibitz can also refer to idle chatting or side conversations.
+gravid, adj. full of meaning or a specified quality, technical: pregnant; carrying eggs or young.
