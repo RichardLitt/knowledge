@@ -10,3 +10,4 @@
 - Set a schedule the night before. Choosing a task for the morning to focus on is too risky a task to leave to the morning.
 - Logging time is better than not logging time.
 - Choose the hardest task, first.
+- When you stumble on some words or notice you are straying verbally, don't say "I am incoherent" or make noises. It doesn't help your point. Pause and speak slowly.
