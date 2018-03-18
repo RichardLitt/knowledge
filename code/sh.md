@@ -36,3 +36,8 @@ This will clone. `git clone` doesn't work because _something about aliases_.
 subl $(find `pwd`/_posts | tail -1)
 subl $(ls -d -1 $PWD/_posts/** | tail -1)
 ```
+
+### Wordcount for all markdown files in a directory
+
+	find . -type f -exec cat {} + | wc -l
+ 
