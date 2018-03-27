@@ -69,6 +69,8 @@ I've also used it for multiple sites, at this point.
 
 - [ ] Set up Netlify. Make an account.
 - [ ] Add your site to Netlify from your GitHub Repository. Use the right build commands, such as `jekyll build`, and folder, such as `_site`.
+- [ ] Add your custom domain in the settings to Netlify
+- [ ] Rename the Netlify project to the name of the domain.
 - [ ] Add Gemfile to your site. It should have these contents, if Jekyll:
 
 ```
