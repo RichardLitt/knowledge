@@ -81,3 +81,9 @@ scintilla - a tiny trace or spark of a specified quality or feeling
 kibitz - A Kibitzer is a Yiddish term for a person who offers (often unwanted) advice or commentary. This term can be applied to any activity, but it is most notably used to describe non-participant spectators in contract bridge, chess, go, and many other games. The verb kibitz can also refer to idle chatting or side conversations.
 gravid, adj. full of meaning or a specified quality, technical: pregnant; carrying eggs or young.
 nonpareil, adj. having no match or equal; unrivalled
+heliophilic, adj. sun loving
+briars, n. (also briar pipe) a tobacco pipe made from woody nodules borne at ground level by a large woody plant of the heather family.
+euryhaline, adj. able to tolerate a wide range of salinity.
+stenohaline, adj.  able to tolerate only a narrow range of salinity. Contrasted to euryhaline
+epilithic, adj. growing on the surface of rock (could this word be used of human life forms?)
+infraspecific, adj. infraspecific
