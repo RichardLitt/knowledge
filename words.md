@@ -87,3 +87,5 @@ euryhaline, adj. able to tolerate a wide range of salinity.
 stenohaline, adj.  able to tolerate only a narrow range of salinity. Contrasted to euryhaline
 epilithic, adj. growing on the surface of rock (could this word be used of human life forms?)
 infraspecific, adj. infraspecific
+nudnik, n. a pestering, nagging, or irritating person; a bore. early 20th century: Yiddish, from Russian nudnyĭ ‘tedious’.
+gomer, n. military slang an inept or stupid colleague, especially a trainee.
