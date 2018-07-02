@@ -89,3 +89,5 @@ epilithic, adj. growing on the surface of rock (could this word be used of human
 infraspecific, adj. infraspecific
 nudnik, n. a pestering, nagging, or irritating person; a bore. early 20th century: Yiddish, from Russian nudnyĭ ‘tedious’.
 gomer, n. military slang an inept or stupid colleague, especially a trainee.
+dirndl, n. a woman's dress in the style of Alpine peasant costume, with a full skirt and a close-fitting bodice.
+canicule, n. Canicula - under the Dog Star, Sirius - the dogdays of summer.
