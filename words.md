@@ -91,3 +91,4 @@ nudnik, n. a pestering, nagging, or irritating person; a bore. early 20th centur
 gomer, n. military slang an inept or stupid colleague, especially a trainee.
 dirndl, n. a woman's dress in the style of Alpine peasant costume, with a full skirt and a close-fitting bodice.
 canicule, n. Canicula - under the Dog Star, Sirius - the dogdays of summer.
+Pirandellian, adj. a mixing of fact and fiction, after the Italian playwright
