@@ -93,3 +93,13 @@ dirndl, n. a woman's dress in the style of Alpine peasant costume, with a full s
 canicule, n. Canicula - under the Dog Star, Sirius - the dogdays of summer.
 Pirandellian, adj. a mixing of fact and fiction, after the Italian playwright
 cabriolet, n. convertible
+maven, n. an expert or connoisseur. Yiddish, 1960s.
+sarsen, n. a silicified sandstone boulder of a kind which occurs on the chalk downs of southern England. Such stones were used in constructing Stonehenge and other prehistoric monuments.
+borde, n. Middle English variant of _board_.
+lamplighter, n. a person employed to lights lamps. Probably never used stilts to do so. 
+contumely, n. insolent or insulting language or treatment. late Middle English: from Old French contumelie, from Latin contumelia, perhaps from con- ‘with’ + tumere ‘to swell’.
+fardel, n. a bundle. Middle English: from Old French.
+shissel, n. a bowl (Yiddish)
+dun, v. make persistent demands on (someone), especially for payment of a debt
+statin, n. any of a group of drugs which act to reduce levels of cholesterol in the blood.
+rattletrap, n. an old or rickety vehicle
