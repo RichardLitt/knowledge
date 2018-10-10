@@ -30,6 +30,12 @@ cat repos | xargs -n1 hub clone
 
 This will clone. `git clone` doesn't work because _something about aliases_.
 
+#### How to clone all an organization's GitHub repositories
+
+```
+github-repositories orbitdb -u | xargs -n1 git clone
+```
+
 ### Open last file in _posts
 
 ```sh

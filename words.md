@@ -81,3 +81,25 @@ scintilla - a tiny trace or spark of a specified quality or feeling
 kibitz - A Kibitzer is a Yiddish term for a person who offers (often unwanted) advice or commentary. This term can be applied to any activity, but it is most notably used to describe non-participant spectators in contract bridge, chess, go, and many other games. The verb kibitz can also refer to idle chatting or side conversations.
 gravid, adj. full of meaning or a specified quality, technical: pregnant; carrying eggs or young.
 nonpareil, adj. having no match or equal; unrivalled
+heliophilic, adj. sun loving
+briars, n. (also briar pipe) a tobacco pipe made from woody nodules borne at ground level by a large woody plant of the heather family.
+euryhaline, adj. able to tolerate a wide range of salinity.
+stenohaline, adj.  able to tolerate only a narrow range of salinity. Contrasted to euryhaline
+epilithic, adj. growing on the surface of rock (could this word be used of human life forms?)
+infraspecific, adj. infraspecific
+nudnik, n. a pestering, nagging, or irritating person; a bore. early 20th century: Yiddish, from Russian nudnyĭ ‘tedious’.
+gomer, n. military slang an inept or stupid colleague, especially a trainee.
+dirndl, n. a woman's dress in the style of Alpine peasant costume, with a full skirt and a close-fitting bodice.
+canicule, n. Canicula - under the Dog Star, Sirius - the dogdays of summer.
+Pirandellian, adj. a mixing of fact and fiction, after the Italian playwright
+cabriolet, n. convertible
+maven, n. an expert or connoisseur. Yiddish, 1960s.
+sarsen, n. a silicified sandstone boulder of a kind which occurs on the chalk downs of southern England. Such stones were used in constructing Stonehenge and other prehistoric monuments.
+borde, n. Middle English variant of _board_.
+lamplighter, n. a person employed to lights lamps. Probably never used stilts to do so. 
+contumely, n. insolent or insulting language or treatment. late Middle English: from Old French contumelie, from Latin contumelia, perhaps from con- ‘with’ + tumere ‘to swell’.
+fardel, n. a bundle. Middle English: from Old French.
+shissel, n. a bowl (Yiddish)
+dun, v. make persistent demands on (someone), especially for payment of a debt
+statin, n. any of a group of drugs which act to reduce levels of cholesterol in the blood.
+rattletrap, n. an old or rickety vehicle

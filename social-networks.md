@@ -20,6 +20,7 @@ Note: This does not include the many accounts I moderate, as those are liable to
 - Text messages and phone calls: _Email me to get this._
 - Signal: _Same._
 - WhatsApp: _Same._
+- Google Hangouts: _Same._
 
 ### Invite only
 
