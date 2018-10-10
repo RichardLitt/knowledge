@@ -40,4 +40,13 @@ subl $(ls -d -1 $PWD/_posts/** | tail -1)
 ### Wordcount for all markdown files in a directory
 
 	find . -type f -exec cat {} + | wc -l
- 
+
+### Symlinking
+
+Don't try and simlink to /usr/bin; you'll get an unhelpful 'Operation not permitted', even with `sudo`. Instead, use `/usr/local/bin`.
+### Symlinking
+
+Don't try and simlink to /usr/bin; you'll get an unhelpful 'Operation not permitted', even with `sudo`. Instead, use `/usr/local/bin`.
+### Symlinking
+
+Don't try and simlink to /usr/bin; you'll get an unhelpful 'Operation not permitted', even with `sudo`. Instead, use `/usr/local/bin`. 
