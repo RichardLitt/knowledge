@@ -55,7 +55,7 @@ Cloudflare is apparently also super annoying for people running TOR, but I'm not
 
 Open questions:
 - Which browsers does Cloudflare provide SSL for?
-- Should I use LetsEncrypt instead? Why? 
+- Should I use LetsEncrypt instead? Why?
 - How is this different from using a paid service?
 - Does moving to Cloudflare remove the benefit of being hosted on GitHub?
 
@@ -68,10 +68,13 @@ I've also used it for multiple sites, at this point.
 ## Process
 
 - [ ] Set up Netlify. Make an account.
-- [ ] Add your site to Netlify from your GitHub Repository. Use the right build commands, such as `jekyll build`, and folder, such as `_site`.
-- [ ] Add your custom domain in the settings to Netlify
-- [ ] Rename the Netlify project to the name of the domain.
-- [ ] Add Gemfile to your site. It should have these contents, if Jekyll:
+- [ ] Open terminal.
+  - [ ] If not already done, `npm install -g netlify-cli`
+- [ ] Go to the project's root folder.
+- [ ] Checkout the branch you want to deploy.
+- [ ] Run `netlify create --name <project-name>`
+- [ ] Run `netlify init` to set up continous delivery and configure build. commands, such as `jekyll build`, and folder, such as `_site`.
+- [ ] If jekyll site, add a Gemfile. It should have these contents:
 
 ```
 source 'https://rubygems.org'
@@ -79,10 +82,16 @@ gem 'jekyll'
 gem 'github-pages', group: :jekyll_plugins
 ```
 
+- [ ] Run `netlify deploy`
+- [ ] Run `netlify open` to view the site.
 - [ ] Look at the deployed test site, and fix any Mixed Content or CORS issues that HTTPS throws up.
-- [ ] Add a CNAME that points to your root domain: for instance, `nomadasfuck.com`.
-- [ ] Change DNS servers (but not nameservers). Instructions: https://www.netlify.com/docs/custom-domains/
-- [ ] Enable security on Netlify. Force a redirect to https.
+- [ ] Log into netlify and go to the project.
+- [ ] Click "Set up a custom domain" and type in the domain name.
+- [ ] Click "Check DNS configuration".
+- [ ] Click "Set up Netlify DNS for your domain" and follow steps.
+- [ ] Navigate to https tab under domain management.
+- [ ] Wait for DNS server to change.
+- [ ] Enable https and force redirect.
 
 ## Questions
 
