@@ -107,3 +107,7 @@ anthers, n. the part of a stamen that contains the pollen.
 bergomot, n. an aromatic North American herb of the mint family, grown for its bright flowers and traditionally used in American Indian medicine. Also a varietal of Seville orange. 
 crop milk, n. a secretion from the lining of the crop of parent birds that is regurgitated to young birds.
 squab, n. a baby pigeon
+imprint, n. a baby bird
+saker, n. a kind of falcon
+houbara bustard, n. a large bird in the bustard family
+bumblefoot, n. an infection found on the feet of birds of prey and some animals
