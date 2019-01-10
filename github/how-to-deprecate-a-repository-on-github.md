@@ -1,8 +1,6 @@
 # How To Deprecate A Repository on GitHub
 
 Once, you had a shining, beautiful repo, full of hope and joy. But now you need to state cleanly and clearly that a repository is no longer going to be maintained, isn’t going to be looked at, and should no longer be of interest to anyone. It is kept for archival purposes.    
-  
-GitHub needs to get around to making a `DEPRECATED` tag. They haven’t done this yet, although there’s clearly a gross amount of interest - just look at [isaacs/github#144.](https://github.com/isaacs/github/issues/144). 
 
 There’s a few reasons you could be deprecating a repository, and the steps you should take for them are different. For a project that no one uses, some simple documentation changes should do the trick. For a project that is actively in use which you want to step away from or deprecate entirely, there’s a bit more legwork.  
   
@@ -10,8 +8,8 @@ Note: I have made a [checklist](https://gist.github.com/RichardLitt/741cb6f2fd6c
     
 ### Deprecating a project no one uses  
 
-Here’s what you do to deprecate an inactive repository.
-  
+**Archive the repository**. GitHub allows to [make a repository read-only by archiving it](https://blog.github.com/2017-11-08-archiving-repositories/). A banner will appear on top of the repository page showing the new status. However, before archiving it you might want to make this clearer by adding more details:
+
 - **Change the GitHub description**. This is often the first thing people see for the repository, and the first line that people will see if looking at the repository in the Organization view.
 The most important thing to do is to add the word `DEPRECATED` at the front of the description. This clearly marks it will not be updated. You can also add an emoji to it. `⛔️ DEPRECATED <former description>` makes it pop out a bit more.  
 - **Add GitHub topics**: `deprecated`, `obselete`, and `archived` are all good ones.  
@@ -44,7 +42,7 @@ If you are interested in the project continuing, but don’t need it to be tagge
 
 ### Other options
 
-Until GitHub implements an archive feature publicly, there are a few other options for deprecating repositories.
+There are a few other options for deprecating repositories.
 
 - **Change the repo name**. I would not recommend changing the title of the repository to something like `<project>-deprecated`, although I have seen this before and it is something you could consider. I find it affects recall for anyone who knew of the project and wants to find it later, and it is not as useful given the above steps are done.
 
