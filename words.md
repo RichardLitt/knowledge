@@ -111,3 +111,63 @@ imprint, n. a baby bird
 saker, n. a kind of falcon
 houbara bustard, n. a large bird in the bustard family
 bumblefoot, n. an infection found on the feet of birds of prey and some animals
+xenodochial, adj., friendly to strangers
+well-helled, adj. wealthy
+abatis
+A battery
+abaxial
+abbé
+Abbevillain
+ABC powers
+ABC soil
+abducens nerve
+abededarian
+Abelian
+abelmust (Hibiscus muscatus)
+abeyance (of succession)
+abib
+abigail
+ab initio
+abiogenesis
+hansel
+sectary
+abonos
+morta
+kala nuts,
+olein
+stearin
+fractionation
+interesterification
+glycerolysis
+tocostrients
+amines
+amides
+humectants
+oleochemicals
+tocotrienols
+mesocarp
+stearic acid
+sodium lauryl surfate
+cocoa-pod borer
+okoume
+blue duiker
+sastrogi
+abjurant
+ablate, v. to remove
+ablative
+ablative absolute
+abloom
+abnegate, v. to deny or surrender
+abomasum
+aboral
+abortifacient
+ABO system (of blood)
+virgules
+clumber
+angstrom
+-a (oxide)
+reperatory
+aba
+AB
+abaea
+à bas
