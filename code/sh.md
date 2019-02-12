@@ -67,8 +67,19 @@ Don't try and simlink to /usr/bin; you'll get an unhelpful 'Operation not permit
 
 #### Get all branches from a remote repository without cloning
 
-````
+```
 < repositories.md xargs -n1 -I url sh -c "printf '\n#### %s\n' url; git ls-remote url 'refs/head/*'" > repo-refs.md
 ```
 
 This can also be modified to show all pulls, tags, and and refs. Repositories should be a list of remote urls.
+
+#### Watch and star all repositories in an org
+
+```sh
+npm i -g watch-github-repos github-star-repo github-repositories
+watch-github-repos --org --watch RichardLitt --token=$WATCH_GITHUB_REPOS
+github-repositories RichardLitt -u > repos.md
+# Manuall clean by removing https://github.com/ ## Fix this, maybe
+cat repos.md | xargs -n1 ghstar
+rm repos.md
+```
