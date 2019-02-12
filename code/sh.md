@@ -78,3 +78,15 @@ This can also be modified to show all pulls, tags, and and refs. Repositories sh
 ```sh
 find . -mindepth 1 -maxdepth 1 -type d '!' -exec test -e "{}/.git/config" ';' -print
 ```
+
+#### Watch and star all repositories in an org
+
+```sh
+npm i -g watch-github-repos github-star-repo github-repositories
+watch-github-repos --org --watch RichardLitt --token=$WATCH_GITHUB_REPOS
+github-repositories RichardLitt -u > repos.md
+# Manuall clean by removing https://github.com/ ## Fix this, maybe
+cat repos.md | xargs -n1 ghstar
+rm repos.md
+>>>>>>> Adding a way to star and watch all GitHub repositories
+```
