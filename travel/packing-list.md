@@ -25,6 +25,8 @@
 - [ ] T-shirts
 - [ ] Nice shirt
 - [ ] Hoodie
+- [ ] Clothing bag
+- [ ] Laundry bag
 
 ## Toiletries
 - [ ] Contacts
@@ -94,6 +96,7 @@
 - [ ] Extra AA batteries
 - [ ] Mic to 1/8th male cable
 - [ ] Microphone windshield
+- [ ] UC-E22 cable or SD reader for transfer 
 
 ## Birding equipage
 - [ ] Handheld recorder
@@ -114,6 +117,7 @@
 - [ ] External USB backup drive
 - [ ] Macbook charger
 - [ ] iPhone charger
+- [ ] iPhone charger (bring another one)
 - [ ] iPhone
 - [ ] Headphones
 - [ ] Snowball microphone (if video needed)
