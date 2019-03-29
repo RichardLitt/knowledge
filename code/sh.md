@@ -67,11 +67,17 @@ Don't try and simlink to /usr/bin; you'll get an unhelpful 'Operation not permit
 
 #### Get all branches from a remote repository without cloning
 
-```
+```sh
 < repositories.md xargs -n1 -I url sh -c "printf '\n#### %s\n' url; git ls-remote url 'refs/head/*'" > repo-refs.md
 ```
 
 This can also be modified to show all pulls, tags, and and refs. Repositories should be a list of remote urls.
+
+#### Show folders in current directory which are not git folders
+
+```sh
+find . -mindepth 1 -maxdepth 1 -type d '!' -exec test -e "{}/.git/config" ';' -print
+```
 
 #### Watch and star all repositories in an org
 

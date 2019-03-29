@@ -1,5 +1,32 @@
 # Packing List
 
+## General
+- [ ] Bus or airline tickets
+- [ ] One dot notebook
+- [ ] One normal notebook
+- [ ] Pocket notebook
+- [ ] Three pens
+- [ ] Dumb pen for plane
+- [ ] Wallet
+- [ ] Credit cards or loyalty cards (as needed)
+- [ ] License
+- [ ] Passport
+- [ ] Backpack
+- [ ] Backpack rain cover
+- [ ] Nalgene
+
+## Clothing
+- [ ] Underwear
+- [ ] Socks
+- [ ] Wool socks
+- [ ] Jeans
+- [ ] Belt
+- [ ] T-shirts
+- [ ] Nice shirt
+- [ ] Hoodie
+- [ ] Clothing bag
+- [ ] Laundry bag
+
 ## Toiletries
 - [ ] Contacts
 - [ ] Contact solution
@@ -11,11 +38,9 @@
 - [ ] Toothpaste
 - [ ] Trim beard _or_ beard trimmer
 - [ ] Nail clippers
-
-## Accoutrement
-- [ ] Backpack
-- [ ] Backpack rain cover
-- [ ] Nalgene
+- [ ] Towel
+- [ ] Sleeping mask
+- [ ] Chapstick
 
 ## Running
 - [ ] Running shoes
@@ -31,29 +56,22 @@
 - [ ] Winter pants
 - [ ] Long underwear x2
 - [ ] Gloves
-- [ ] Hat
-- [ ] Long sleeve undershirts shirts
-- [ ] Underarmour underwear x2
+- [ ] Warm Hat
+- [ ] Cotton Hat
+- [ ] Underhat
+- [ ] Long sleeve undershirts
+- [ ] Smartwool underwear x2
 - [ ] Turtle _or_ scarf
 - [ ] Outer coat
 - [ ] Inner coat
-- [ ] Hoodie or sweater
-
-## General
-- [ ] One dot notebook
-- [ ] One normal notebook
-- [ ] Three pens
-- [ ] Wallet
-- [ ] Credit cards or loyalty cards (as needed)
-- [ ] License
-- [ ] Passport
-- [ ] Backpack
+- [ ] Sweater
 
 ## Books
 - [ ] Scripts
 - [ ] One short novel
 - [ ] One business book
 - [ ] Kindle
+- [ ] Kindle charger
 
 ## Skiing
 - [ ] Skiis
@@ -74,18 +92,22 @@
 - [ ] Air pump
 - [ ] USB connector
 - [ ] Shotgun microphone
-- [ ] Extra AA battery
-- [ ] Microphone chord
-- [ ] Microphone windscreen
+- [ ] Extra AA batteries
+- [ ] Mic to 1/8th male cable
+- [ ] Microphone windshield
+- [ ] UC-E22 cable or SD reader for transfer 
 
 ## Birding equipage
-- [ ] Handheld recorded
-- [ ] Shotgun bubble screen
-- [ ] Extra AA batteries
-- [ ] Microphone to microphone chord
+- [ ] Handheld recorder
+- [ ] Extra AA batteries for recorder
+- [ ] Shotgun blimp windscreen
+- [ ] Mic to mic cable
 - [ ] Birding books for region
 - [ ] Scope
 - [ ] Tripod
+- [ ] Binoculars
+- [ ] Binocular case
+- [ ] Lens cleaner for binoculars
 
 ## Computer equipage
 - [ ] Power converter (for country)
@@ -94,6 +116,7 @@
 - [ ] External USB backup drive
 - [ ] Macbook charger
 - [ ] iPhone charger
+- [ ] iPhone charger (bring another one)
 - [ ] iPhone
 - [ ] Headphones
 - [ ] Snowball microphone (if video needed)
