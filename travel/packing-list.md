@@ -26,6 +26,7 @@
 - [ ] Hoodie
 - [ ] Clothing bag
 - [ ] Laundry bag
+- [ ] Rain jacket
 
 ## Toiletries
 - [ ] Contacts
@@ -41,6 +42,7 @@
 - [ ] Towel
 - [ ] Sleeping mask
 - [ ] Chapstick
+- [ ] Toiletries airtight bag
 
 ## Running
 - [ ] Running shoes
@@ -95,7 +97,7 @@
 - [ ] Extra AA batteries
 - [ ] Mic to 1/8th male cable
 - [ ] Microphone windshield
-- [ ] UC-E22 cable or SD reader for transfer 
+- [ ] UC-E22 cable or SD reader for transfer
 
 ## Birding equipage
 - [ ] Handheld recorder
