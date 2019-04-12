@@ -89,3 +89,11 @@ github-repositories RichardLitt -u > repos.md
 cat repos.md | xargs -n1 ghstar
 rm repos.md
 ```
+
+#### Get all of the email addresses used in a repo
+
+Do not misuse for evil.
+
+```sh
+git log | ag @ | sort | uniq -c
+```
