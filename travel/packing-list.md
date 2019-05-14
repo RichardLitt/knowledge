@@ -14,6 +14,10 @@
 - [ ] Backpack
 - [ ] Backpack rain cover
 - [ ] Nalgene
+- [ ] Cotton hat
+
+## Driving
+- [ ] International Driver's Permit
 
 ## Clothing
 - [ ] Underwear
@@ -43,6 +47,7 @@
 - [ ] Sleeping mask
 - [ ] Chapstick
 - [ ] Toiletries airtight bag
+- [ ] Earplugs
 
 ## Running
 - [ ] Running shoes
