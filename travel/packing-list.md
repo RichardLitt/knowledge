@@ -1,6 +1,10 @@
 # Packing List
 
+## Long Term Things To Do
+- [ ] Charge batteries (phone, camera, laptop)
+
 ## General
+- [ ] Towel
 - [ ] Bus or airline tickets
 - [ ] One dot notebook
 - [ ] One normal notebook
@@ -15,8 +19,6 @@
 - [ ] Backpack rain cover
 - [ ] Nalgene
 - [ ] Cotton hat
-
-## Driving
 - [ ] International Driver's Permit
 
 ## Clothing
@@ -31,6 +33,7 @@
 - [ ] Clothing bag
 - [ ] Laundry bag
 - [ ] Rain jacket
+- [ ] Swim suit
 
 ## Toiletries
 - [ ] Contacts
