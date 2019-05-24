@@ -14,6 +14,7 @@
 - [ ] Backpack
 - [ ] Backpack rain cover
 - [ ] Nalgene
+- [ ] Cotton Hat
 
 ## Clothing
 - [ ] Underwear
