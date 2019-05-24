@@ -33,3 +33,4 @@ This is the list for what to do to close up shop and to get the house in shape b
 - [ ] Close the mousetraps
 - [ ] Lock both door locks
 - [ ] Offer your house to anyone who wants to escape to Vermont for X time.
+- [ ] Charge your batteries
