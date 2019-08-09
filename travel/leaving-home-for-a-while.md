@@ -2,7 +2,7 @@
 
 This is the list for what to do to close up shop and to get the house in shape before heading off on a trip.
 
-- [ ] Close all windows
+- [ ] Close northerly and southern windows
 - [ ] Close all shutters
 - [ ] Turn off the oven and stove
 - [ ] Put the wash out to dry (don't leave anything in the dryer)
