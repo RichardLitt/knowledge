@@ -2,6 +2,7 @@
 
 ## Long Term Things To Do
 - [ ] Charge batteries (phone, camera, laptop)
+- [ ] Enable phone for international travel
 
 ## General
 - [ ] Towel
@@ -130,3 +131,4 @@
 - [ ] iPhone
 - [ ] Headphones
 - [ ] Snowball microphone (if video needed)
+
