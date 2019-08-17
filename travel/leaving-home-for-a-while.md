@@ -32,6 +32,7 @@ This is the list for what to do to close up shop and to get the house in shape b
 - [ ] Turn off computer electronics
 - [ ] Make sure the fireplace flu is closed
 - [ ] Close northerly and southern windows
+- [ ] Move the patio table and chairs in or under the awning
 - [ ] Lock both door locks
 - [ ] Re-park the car to be minimally obtrusive to neighbors
 - [ ] Offer your house to anyone who wants to escape to Vermont for X time.
