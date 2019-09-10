@@ -171,3 +171,4 @@ aba
 AB
 abaea
 à bas
+entrain, v. cause or bring about as a consequence
