@@ -172,3 +172,4 @@ AB
 abaea
 à bas
 entrain, v. cause or bring about as a consequence
+Eulerian path, n. a graph in which each edge is visited only once
