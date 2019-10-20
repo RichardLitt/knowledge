@@ -42,6 +42,7 @@
 - [ ] Extra pair of contacts
 - [ ] Glasses
 - [ ] Glasses sleeve
+- [ ] Glasses cleaner
 - [ ] Deodorant
 - [ ] Toothbrush
 - [ ] Toothpaste
