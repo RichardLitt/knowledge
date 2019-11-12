@@ -176,3 +176,4 @@ Eulerian path, n. a graph in which each edge is visited only once
 détente, n. the loosening or easing of relations, esp. between countries. 
 bampot, n. a mad person. Scots, English
 stotious, adj. drunk. Scots
+foley, adj. the name for the kind of recording that sound recorders for movies do with lots of little things that make a movie more realistic
