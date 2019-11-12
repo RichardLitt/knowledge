@@ -174,3 +174,5 @@ abaea
 entrain, v. cause or bring about as a consequence
 Eulerian path, n. a graph in which each edge is visited only once
 détente, n. the loosening or easing of relations, esp. between countries. 
+bampot, n. a mad person. Scots, English
+stotious, adj. drunk. Scots
