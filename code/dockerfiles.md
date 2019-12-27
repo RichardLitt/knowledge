@@ -7,3 +7,7 @@ Docker images don't have the same sort of metadata needs as npm packages or GitH
   - `Maintainer`
   - `Description`
   - `Tags` (probably a string field - debatable if this is useful)
+
+# Crates.io
+
+This is much more similar to npm. Fill out [this data](https://doc.rust-lang.org/cargo/reference/manifest.html#package-metadata) in the `Cargo.toml` file.
