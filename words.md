@@ -179,4 +179,4 @@ stotious, adj. drunk. Scots
 foley, adj. the name for the kind of recording that sound recorders for movies do with lots of little things that make a movie more realistic
 lexicographical order, n. mathematics term for alphabetic order which includes numbers
 hegiras, n. an exodus or migration.
-
+janjaweed, n. African reavers. From an Arabic phrase meaning 'devils on horseback'
