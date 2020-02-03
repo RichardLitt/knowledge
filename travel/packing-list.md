@@ -21,6 +21,7 @@
 - [ ] Nalgene
 - [ ] Cotton hat
 - [ ] International Driver's Permit
+- [ ] Blank envelop for receipts
 
 ## Clothing
 - [ ] Underwear
@@ -63,6 +64,12 @@
 - [ ] Rolling mat
 - [ ] Squash ball
 - [ ] Running shorts
+
+## Swimming
+- [ ] Swim suit
+- [ ] Ear plugs
+- [ ] Goggles
+- [ ] Swimming cap
 
 ## Winter Clothing
 - [ ] Winter pants
