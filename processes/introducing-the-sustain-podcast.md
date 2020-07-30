@@ -1,0 +1,19 @@
+## Checklist for starting the Sustain podcast
+- [ ] Have you seen this before?
+  - [ ] Generally focus on sustaining
+  - [ ] Is there you'd feel would be a failure if we didn't mention it?
+- [ ] 40 minute marks
+- [ ] Mute your phones and laptop notifications
+- [ ] We don't record video
+- [ ] Please mute yourself when not talking, please
+- [ ] EDIT
+  - [ ] Pauses before answering
+  - [ ] Swearing
+  - [ ] Putting links in the chat
+  - [ ] Paul is our editor
+- [ ] QUOTE
+- [ ] Spotlight
+- [ ] How do you pronounce your name?
+- [ ] Where do you currently work?
+- [ ] Where do you currently live?
+- [ ] Any questions for us?

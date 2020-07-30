@@ -2,6 +2,7 @@
 
 ## Long Term Things To Do
 - [ ] Charge batteries (phone, camera, laptop)
+- [ ] Enable phone for international travel
 
 ## General
 - [ ] Towel
@@ -20,6 +21,7 @@
 - [ ] Nalgene
 - [ ] Cotton hat
 - [ ] International Driver's Permit
+- [ ] Blank envelop for receipts
 
 ## Clothing
 - [ ] Underwear
@@ -41,6 +43,7 @@
 - [ ] Extra pair of contacts
 - [ ] Glasses
 - [ ] Glasses sleeve
+- [ ] Glasses cleaner
 - [ ] Deodorant
 - [ ] Toothbrush
 - [ ] Toothpaste
@@ -61,6 +64,12 @@
 - [ ] Rolling mat
 - [ ] Squash ball
 - [ ] Running shorts
+
+## Swimming
+- [ ] Swim suit
+- [ ] Ear plugs
+- [ ] Goggles
+- [ ] Swimming cap
 
 ## Winter Clothing
 - [ ] Winter pants
@@ -130,3 +139,4 @@
 - [ ] iPhone
 - [ ] Headphones
 - [ ] Snowball microphone (if video needed)
+

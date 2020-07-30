@@ -173,3 +173,23 @@ abaea
 à bas
 vizard
 trull
+entrain, v. cause or bring about as a consequence
+Eulerian path, n. a graph in which each edge is visited only once
+détente, n. the loosening or easing of relations, esp. between countries. 
+bampot, n. a mad person. Scots, English
+stotious, adj. drunk. Scots
+foley, adj. the name for the kind of recording that sound recorders for movies do with lots of little things that make a movie more realistic
+lexicographical order, n. mathematics term for alphabetic order which includes numbers
+hegiras, n. an exodus or migration.
+janjaweed, n. African reavers. From an Arabic phrase meaning 'devils on horseback'
+satori, n. sudden enlightenment
+wuxia, n. a genre of Chinese fiction or cinema featuring itinerant warriors of ancient China, often depicted as capable of superhuman feats of martial arts.
+pirogue, n. a long, narrow canoe made from a single tree trunk, especially in Central America and the Caribbean.
+pomological, adj. related to the story of apples
+secateur, n. a pair of pruning clippers for use with one hand.
+doss, v. sleep in rough accommodation or on an improvised bed, or to spend time idly.
+bathetic, adj. producing an unintentional effect of anticlimax
+espalier, n. a fruit tree or ornamental shrub whose branches are trained to grow flat against a wall, supported on a lattice.
+tony, n. fashionable among wealthy or stylish people
+litotes, n. ironic understatement in which an affirmative is expressed by the negative of its contrary
+litotic, adj. like litotes

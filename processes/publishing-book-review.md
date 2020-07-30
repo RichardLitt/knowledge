@@ -42,8 +42,8 @@ jekyll serve
 - [ ] Copy HTML from markdown to clipboard
 
 ```
-marky-markdown <file> | pb
-## Attempt to automaticall get only relevant parts
+marky-markdown <file> | pbcopy
+## Attempt to automatically get only relevant parts
 # sed -e '1,/include JB/d' <file
 ```
 
