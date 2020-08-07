@@ -191,3 +191,4 @@ espalier, n. a fruit tree or ornamental shrub whose branches are trained to grow
 tony, n. fashionable among wealthy or stylish people
 litotes, n. ironic understatement in which an affirmative is expressed by the negative of its contrary
 litotic, adj. like litotes
+legerity, speed.
