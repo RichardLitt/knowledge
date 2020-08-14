@@ -25,6 +25,7 @@ This is a general checklist for getting an Open Collective project up and runnin
 ### Roadmap & Timeframe
 <!-- (Key milestones or phases and estimated delivery dates, including specs, design, feature development, feedback, marketing/comms, and documentation) -->
 
+
 ### Success metrics
 <!-- What we will judge outcomes of the project by) -->
 
@@ -35,11 +36,21 @@ This is a general checklist for getting an Open Collective project up and runnin
 - [ ] Add a code of conduct enforcement mechanism
 - [ ] Create a roadmap for the next few months
 
-## External tasks
+## Sustainer tasks
+
+- [ ] Create project audit checklist - Ask them what their needs are
+  - [ ] Maintainers/developers
+  - [ ] Fundraising
+  - [ ] Marketing
+  - [ ] Project Management
+  - [ ] Design
+  - [ ] Documentation
+  - [ ] Outreach/community
+  - [ ] Training/mentoring
+  - [ ] Other 
 - [ ] Create or clean up Open Collective page
 - [ ] Identify all past and current sponsors
   - [ ] Make a spreadsheet with their information
-  - [ ] Ask them what their needs are
-- [ ] Look at all GitHub watchers and stargazers
 - [ ] Reach out to sponsors directly
+- [ ] Look at all GitHub watchers and stargazers
 
