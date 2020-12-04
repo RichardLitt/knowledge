@@ -1,8 +1,12 @@
 ## Checklist for starting the Sustain podcast
+- [ ] Thank your guest for coming on the platform
+- [ ] IS IT RECORDING
 - [ ] Have you seen this before?
   - [ ] Generally focus on sustaining
   - [ ] Is there you'd feel would be a failure if we didn't mention it?
 - [ ] 40 minute marks
+- [ ] Check mics
+  - [ ] Make sure that you're using the right mic
 - [ ] Mute your phones and laptop notifications
 - [ ] We don't record video
 - [ ] Please mute yourself when not talking, please
@@ -17,3 +21,4 @@
 - [ ] Where do you currently work?
 - [ ] Where do you currently live?
 - [ ] Any questions for us?
+- [ ] Thank your guest again!!
