@@ -192,3 +192,7 @@ tony, n. fashionable among wealthy or stylish people
 litotes, n. ironic understatement in which an affirmative is expressed by the negative of its contrary
 litotic, adj. like litotes
 legerity, speed.
+pro forma, phrase, done as a matter of form.
+broekie, n. women's underwear in south africa
+contrapuntal, adj. of or in counterpoint.
+pluton, n. a body of intrusive igneous rock.
