@@ -1,5 +1,7 @@
 ## Checklist for starting the Sustain podcast
 - [ ] Thank your guest for coming on the platform
+- [ ] Ask the guest how they are feeling; we can always reschedule.
+- [ ] Grab a glass of water and invite the guest to do the same.
 - [ ] IS IT RECORDING
 - [ ] Have you seen this before?
   - [ ] Generally focus on sustaining
