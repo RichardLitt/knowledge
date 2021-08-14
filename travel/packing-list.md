@@ -54,6 +54,7 @@
 - [ ] Chapstick
 - [ ] Toiletries airtight bag
 - [ ] Earplugs
+- [ ] Masks
 
 ## Running
 - [ ] Running shoes

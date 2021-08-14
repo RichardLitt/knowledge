@@ -37,3 +37,5 @@ This is the list for what to do to close up shop and to get the house in shape b
 - [ ] Re-park the car to be minimally obtrusive to neighbors
 - [ ] Offer your house to anyone who wants to escape to Vermont for X time.
 - [ ] Enable phone for international travel
+- [ ] Pack food
+
