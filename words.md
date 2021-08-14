@@ -198,3 +198,17 @@ pro forma, phrase, done as a matter of form.
 broekie, n. women's underwear in south africa
 contrapuntal, adj. of or in counterpoint.
 pluton, n. a body of intrusive igneous rock.
+bilettes
+Vitraux de Claire
+ambulatory
+fibrillating
+serried
+Waardenburg syndrome
+apsidal
+cassock
+precipition
+samsaric
+coralligenous, adj. like coral
+envemon, to have venom in you
+stithies
+adit
