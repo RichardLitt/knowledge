@@ -136,9 +136,10 @@
 - [ ] Macbook (video needed)
 - [ ] External USB backup drive
 - [ ] Macbook charger
-- [ ] iPhone charger
-- [ ] iPhone charger (bring another one)
-- [ ] iPhone
+- [ ] Phone
+- [ ] USB-B cable
+- [ ] USB-A to lighting cable
+- [ ] USB-C to lighting cable
 - [ ] Headphones
 - [ ] Snowball microphone (if video needed)
 
