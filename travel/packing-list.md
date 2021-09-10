@@ -14,6 +14,7 @@
 - [ ] Dumb pen for plane
 - [ ] Wallet
 - [ ] Credit cards or loyalty cards (as needed)
+- [ ] Some checks from VSECU and Schwab
 - [ ] License
 - [ ] Passport
 - [ ] Backpack
