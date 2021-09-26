@@ -17,6 +17,7 @@
 - [ ] Some checks from VSECU and Schwab
 - [ ] License
 - [ ] Passport
+- [ ] CDC card
 - [ ] Backpack
 - [ ] Backpack rain cover
 - [ ] Nalgene
@@ -140,6 +141,7 @@
 - [ ] USB-B cable
 - [ ] USB-A to lighting cable
 - [ ] USB-C to lighting cable
+- [ ] USB port
 - [ ] Headphones
 - [ ] Snowball microphone (if video needed)
 
