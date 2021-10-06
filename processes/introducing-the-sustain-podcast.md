@@ -3,6 +3,7 @@
 - [ ] Ask the guest how they are feeling; we can always reschedule.
 - [ ] Grab a glass of water and invite the guest to do the same.
 - [ ] IS IT RECORDING
+- [ ] Turn off VPN
 - [ ] Ask them to record their audio locally
 - [ ] We don't record video
 - [ ] Have you seen this before?

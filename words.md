@@ -212,3 +212,5 @@ coralligenous, adj. like coral
 envemon, to have venom in you
 stithies
 adit
+moran, n. warrior - Maasai
+chalicotherium, n. cool bear/sloth/horse/ape mix.
