@@ -8,6 +8,7 @@ This is the list for what to do to close up shop and to get the house in shape b
 - [ ] Put the wash out to dry (don't leave anything in the dryer)
 - [ ] Clean the stove
 - [ ] Clean the counters
+- [ ] Clean the fridge
 - [ ] Turn off the oven and stove
 - [ ] Clean the dishes
 - [ ] Empty the compost
@@ -19,6 +20,7 @@ This is the list for what to do to close up shop and to get the house in shape b
 - [ ] Make your bed with clean sheets
 - [ ] Water the plants
 - [ ] Get the mail
+- [ ] Sweep
 - [ ] Give a spare key to the neighbors
 - [ ] Put fruit and butter in the fridge
 - [ ] Throw out milk and other perishables
@@ -28,14 +30,17 @@ This is the list for what to do to close up shop and to get the house in shape b
 - [ ] Tidy the house
 - [ ] Close the mousetraps
 - [ ] Turn off the heat
-- [ ] Turn off the hot water
 - [ ] Turn off computer electronics
 - [ ] Make sure the fireplace flu is closed
-- [ ] Close northerly and southern windows
+- [ ] Close northerly and southern windows as plants require
 - [ ] Move the patio table and chairs in or under the awning
 - [ ] Lock both door locks
+- [ ] Pack up the car (look it over)
 - [ ] Re-park the car to be minimally obtrusive to neighbors
 - [ ] Offer your house to anyone who wants to escape to Vermont for X time.
 - [ ] Enable phone for international travel
 - [ ] Pack food
-
+- [ ] Vacuum
+- [ ] Review any unreviewed books
+- [ ] Clear out all of the TODO items off of your desk
+- [ ] Pack
