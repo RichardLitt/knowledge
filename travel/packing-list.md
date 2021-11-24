@@ -51,11 +51,12 @@
 - [ ] Toothpaste
 - [ ] Trim beard _or_ beard trimmer
 - [ ] Nail clippers
-- [ ] Towel
+- [ ] Towel (you already have your towel, right?)
 - [ ] Sleeping mask
 - [ ] Chapstick
 - [ ] Toiletries airtight bag
 - [ ] Earplugs
+- [ ] Swimming ear plugs
 - [ ] Masks
 
 ## Running
