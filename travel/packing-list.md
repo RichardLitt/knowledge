@@ -146,3 +146,14 @@
 - [ ] Headphones
 - [ ] Snowball microphone (if video needed)
 
+## Hiking
+- [ ] Stove
+- [ ] Hiking poles
+- [ ] Headlamp
+- [ ] Sleeping mat
+- [ ] Sleeping bag
+- [ ] Liner
+- [ ] Water pouches
+- [ ] Water purifier
+- [ ] Compass
+
