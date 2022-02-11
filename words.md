@@ -214,3 +214,7 @@ stithies
 adit
 moran, n. warrior - Maasai
 chalicotherium, n. cool bear/sloth/horse/ape mix.
+doloires, n. a flarex ax like a trumpet, used for cutting green oak to remake the Notre Dame beams
+caissons, n. cases for gunpowder
+guidons, n. a pennant that narrows to a point or fork at the free end, especially one used as the standard of a light cavalry regiment.
+minuscule, adj. Not miniscule. early 18th century: from French, from Latin minuscula (littera) ‘somewhat smaller (letter)’.

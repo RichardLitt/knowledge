@@ -28,4 +28,5 @@
 - [ ] Where do you currently live?
 - [ ] Any questions for us?
 - [ ] Thank your guest again!!
-
+- [ ] Mention that you will stay on after the end to chat
+- [ ] Do a short intro for who we are
