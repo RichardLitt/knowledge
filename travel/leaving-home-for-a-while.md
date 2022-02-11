@@ -33,7 +33,7 @@ This is the list for what to do to close up shop and to get the house in shape b
 - [ ] Turn off computer electronics
 - [ ] Make sure the fireplace flu is closed
 - [ ] Close northerly and southern windows as plants require
-- [ ] Move the patio table and chairs in or under the awning
+- [ ] Bring the bike in from outside
 - [ ] Lock both door locks
 - [ ] Pack up the car (look it over)
 - [ ] Re-park the car to be minimally obtrusive to neighbors

@@ -52,7 +52,7 @@
 - [ ] Trim beard _or_ beard trimmer
 - [ ] Nail clippers
 - [ ] Towel (you already have your towel, right?)
-- [ ] Sleeping mask
+- [~] Sleeping mask
 - [ ] Chapstick
 - [ ] Toiletries airtight bag
 - [ ] Earplugs
@@ -105,41 +105,23 @@
 
 ## Camera equipage
 - [ ] Nikon D500
-- [ ] 200-500mm Lens
-- [ ] 500mm lens shade
 - [ ] 55-300mm lens
 - [ ] 300mm lens shade
-- [ ] Camera bag
 - [ ] Battery charger
 - [ ] Lens cleaner
-- [ ] Air pump
 - [ ] USB connector
-- [ ] Shotgun microphone
-- [ ] Extra AA batteries
-- [ ] Mic to 1/8th male cable
-- [ ] Microphone windshield
 - [ ] UC-E22 cable or SD reader for transfer
 
 ## Birding equipage
-- [ ] Handheld recorder
-- [ ] Extra AA batteries for recorder
-- [ ] Shotgun blimp windscreen
-- [ ] Mic to mic cable
-- [ ] Birding books for region
-- [ ] Scope
-- [ ] Tripod
 - [ ] Binoculars
-- [ ] Binocular case
-- [ ] Lens cleaner for binoculars
 
 ## Computer equipage
 - [ ] Power converter (for country)
-- [ ] Air laptop (video not needed)
 - [ ] Macbook (video needed)
 - [ ] External USB backup drive
 - [ ] Macbook charger
 - [ ] Phone
-- [ ] USB-B cable
+- [ ] USB-B-micro cable
 - [ ] USB-A to lighting cable
 - [ ] USB-C to lighting cable
 - [ ] USB port
