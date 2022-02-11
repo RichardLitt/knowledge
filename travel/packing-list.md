@@ -24,6 +24,7 @@
 - [ ] Cotton hat
 - [ ] International Driver's Permit
 - [ ] Blank envelop for receipts
+- [ ] Gum
 
 ## Clothing
 - [ ] Underwear
@@ -127,6 +128,7 @@
 - [ ] USB port
 - [ ] Headphones
 - [ ] Snowball microphone (if video needed)
+- [ ] External charger for iPhone
 
 ## Hiking
 - [ ] Stove
