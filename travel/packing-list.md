@@ -25,6 +25,7 @@
 - [ ] International Driver's Permit
 - [ ] Blank envelop for receipts
 - [ ] Gum
+- [ ] Meds
 
 ## Clothing
 - [ ] Underwear
