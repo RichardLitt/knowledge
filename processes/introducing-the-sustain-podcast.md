@@ -30,3 +30,15 @@
 - [ ] Thank your guest again!!
 - [ ] Mention that you will stay on after the end to chat
 - [ ] Do a short intro for who we are
+
+## Introductions
+- [ ] Say the following:
+> "Hello and welcome to Sustain, the podcast where we talk about sustaining open source for the long haul."
+- [ ] Introduce the other panelists quickly
+- [ ] Introduce the guest, saying where they come from, what their title is, and a quick note on their background
+
+## After the podcast
+- [ ] Email us podcast@sustainoss.org if you have any feedback
+- [ ] Rate us on Apple Podcast or Spotify
+- [ ] Follow us on Twitter @sustainoss
+
