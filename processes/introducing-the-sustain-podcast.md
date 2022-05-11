@@ -41,4 +41,6 @@
 - [ ] Email us podcast@sustainoss.org if you have any feedback
 - [ ] Rate us on Apple Podcast or Spotify
 - [ ] Follow us on Twitter @sustainoss
+- [ ] Join our Discourse at discourse.sustainoss.org.
+- [ ] Find more episodes and the shownotes at sosdpodcast.sustainoss.org. 
 
