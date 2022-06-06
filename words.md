@@ -220,3 +220,20 @@ guidons, n. a pennant that narrows to a point or fork at the free end, especiall
 minuscule, adj. Not miniscule. early 18th century: from French, from Latin minuscula (littera) ‘somewhat smaller (letter)’.
 inanition, n. exhaustion caused by lack of nourishmen
 mbira, n. (especially in southern Africa) another term for thumb piano.
+cardiac glycosides, n. toxins
+aposematic, adj. showing colors that signal toxicity or veer predators away. From apo + sematic. 
+monoceious, adj. flowers on an individual tree are all the same sex
+dioecious, adj. flowers on an individual tree of either sex
+dirndl, n. a woman's dress in the style of Alpine peasant costume, with a full skirt and a close-fitting bodice.
+reinanken, n. whitefish (German)
+Saibling, n. A European mountain trout ({Salvelinus alpinus}); -- called also {Bavarian charr}.
+corm, n. a short, vertical, swollen underground plant stem that serves as a storage organ that some plants use to survive winter or other adverse conditions such as summer drought and heat
+perennation, n. the ability of organisms, particularly plants, to survive from one germinating season to another, especially under unfavourable conditions such as drought or winter.
+sarus cranes, n. a bird
+hydrophytes, n. 
+nypmhiodies
+jamun tree
+nudos, n. knot (a looping piece of a long, flexible material) knot (nautical unit of speed)
+Oriente, n. a region of eastern Ecuador, comprising the eastern slopes of the Ecuadorian Andes and the lowland areas of rainforest in the Amazon basin. 
+hazelbert, n. a cross between a hazelnut and a filbert tree. 
+Cantastoria, n. singer-teller
