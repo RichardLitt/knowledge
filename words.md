@@ -237,3 +237,11 @@ nudos, n. knot (a looping piece of a long, flexible material) knot (nautical uni
 Oriente, n. a region of eastern Ecuador, comprising the eastern slopes of the Ecuadorian Andes and the lowland areas of rainforest in the Amazon basin. 
 hazelbert, n. a cross between a hazelnut and a filbert tree. 
 Cantastoria, n. singer-teller
+red-baiting, n. calling someone a communist. "The personal attacks on Carson ranged from sexism to red-baiting."
+morpho, n. A type of butterfly
+tepui, n. a type of mesa or plateau in the Amazon, made famous by _The Lost World_ and _Up!_
+bellbirds, n. a type of south american bird
+to augur into, ph. Used in National Geographic to mean to slip into a crack. I think wrong.
+immiscible, adj. except for the immischible magisteria of my cloven soul
+zebu, n. indian cattle species
+mare (pl maria), n. a large, level basalt plain on the surface of the moon, appearing dark by contrast with highland areas

@@ -31,9 +31,10 @@ On any given day:
 - Shower, of which 5 mins. must be cold
   - Can be hot to begin with, or a sandwich
   - Can be removed if the exercise involved being in a cold body of water outside, including running in the rain
-- Meditate for 20 minutes
-- Visualize success for 10 minutes
-  - Can be written; can use prompt to remind you of your goals
+- If not done during walk:
+  - Meditate for 20 minutes
+  - Visualize success for 10 minutes
+    - Can be written; can use prompt to remind you of your goals
 - Water your plants
 - Open all of your curtains
 - Choose 8 tasks for the day
@@ -42,5 +43,6 @@ On any given day:
   - Can be written down the night before to make things easier.
 - Drink 16oz of water
 - Make coffee, breakfast, etc...
+- Take meds
 
 The goal of this routine is not to make you sleep deficient. Instead, it's to make it easier on you to have exercise in early, to work on your mindfulness training before you get sucked into the day, and to state, at the beginning, what a day will look like.
