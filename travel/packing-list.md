@@ -1,5 +1,9 @@
 # Packing List
 
+- [ ] Suitcase
+- [ ] Backpack
+- [ ] Hiking backpack
+
 ## Long Term Things To Do
 - [ ] Charge batteries (phone, camera, laptop)
 - [ ] Enable phone for international travel
