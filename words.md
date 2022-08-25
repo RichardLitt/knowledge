@@ -245,3 +245,6 @@ to augur into, ph. Used in National Geographic to mean to slip into a crack. I t
 immiscible, adj. except for the immischible magisteria of my cloven soul
 zebu, n. indian cattle species
 mare (pl maria), n. a large, level basalt plain on the surface of the moon, appearing dark by contrast with highland areas
+bolus, n. a food ball of bugs that swifts use to bring back to their young
+forestall, v. to halt
+asseverate, v. declare or state solemnly or emphatically 
