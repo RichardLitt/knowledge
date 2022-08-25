@@ -21,6 +21,7 @@ This is the list for what to do to close up shop and to get the house in shape b
 - [ ] Water the plants
 - [ ] Get the mail
 - [ ] Sweep
+- [ ] Set up your audio mic and set times
 - [ ] Give a spare key to the neighbors
 - [ ] Put fruit and butter in the fridge
 - [ ] Throw out milk and other perishables

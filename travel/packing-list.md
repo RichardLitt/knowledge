@@ -116,6 +116,9 @@
 
 ## Birding equipage
 - [ ] Binoculars
+- [ ] Audiomoth
+- [ ] AA batteries for Moth
+- [ ] Any relevant books or guides
 
 ## Computer equipage
 - [ ] Power converter (for country)
@@ -130,6 +133,8 @@
 - [ ] Headphones
 - [ ] Snowball microphone (if video needed)
 - [ ] External charger for iPhone
+- [ ] Oura charger
+
 
 ## Hiking
 - [ ] Stove
