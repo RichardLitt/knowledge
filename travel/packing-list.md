@@ -1,5 +1,7 @@
 # Packing List
 
+_Note: **At least once** you have gone through this entire list, and failed to include something because you assumed you had it. Manually be very, very, very careful, for your own good. Yes. Sorry._
+
 - [ ] Suitcase
 - [ ] Backpack
 - [ ] Hiking backpack
