@@ -29,7 +29,7 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Nalgene
 - [ ] Cotton hat
 - [ ] International Driver's Permit
-- [ ] Blank envelop for receipts
+- [ ] Blank envelope for receipts
 - [ ] Gum
 - [ ] Meds
 
