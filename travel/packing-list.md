@@ -125,6 +125,7 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Audiomoth
 - [ ] AA batteries for Moth
 - [ ] Any relevant books or guides
+- [ ] Scope
 
 ## Computer equipage
 - [ ] Power converter (for country)
@@ -138,6 +139,7 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] USB port
 - [ ] Headphones
 - [ ] Snowball microphone (if video needed)
+- [ ] Tripod for mic
 - [ ] External charger for iPhone
 - [ ] Oura charger
 
