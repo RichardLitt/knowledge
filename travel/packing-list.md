@@ -103,6 +103,7 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] One business book
 - [ ] Kindle
 - [ ] Kindle charger
+- [ ] Latin textbook
 
 ## Skiing
 - [ ] Skiis
