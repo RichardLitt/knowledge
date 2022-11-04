@@ -15,6 +15,7 @@ This is the list for what to do to close up shop and to get the house in shape b
 - [ ] Clean the compost bucket
 - [ ] Take out the trash and recycling
 - [ ] Run the dishwasher
+- [ ] Clean the bathroom
 - [ ] Unplug the toaster and other appliances
 - [ ] Make sure that no taps are running
 - [ ] Make your bed with clean sheets
@@ -45,3 +46,4 @@ This is the list for what to do to close up shop and to get the house in shape b
 - [ ] Review any unreviewed books
 - [ ] Clear out all of the TODO items off of your desk
 - [ ] Pack
+- [ ] Figure out what to do with NFC mic
