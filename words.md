@@ -1,5 +1,7 @@
 # Words
 
+
+
 TODO Automatically add words from book notes
 
 These are words I have had to look up recently. I'd like to have a better list so that I can peruse it later.
@@ -248,3 +250,12 @@ mare (pl maria), n. a large, level basalt plain on the surface of the moon, appe
 bolus, n. a food ball of bugs that swifts use to bring back to their young
 forestall, v. to halt
 asseverate, v. declare or state solemnly or emphatically 
+quilombo, n. a refuge, a community of ex-slaves in Brazil
+congee, n. an oriental dish that revitalizes, like porridge
+lignin, n. a chemical that helps woody growth.
+anticline, n. a formation of strata
+rota Fortunae, n. the wheel of Fortune, from Boetheius
+salvific, adj. related to salvation
+Essene, sect of Jews at Qumran
+Davidic, adj. related to King David
+
