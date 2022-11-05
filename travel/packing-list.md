@@ -7,20 +7,24 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Hiking backpack
 
 ## Long Term Things To Do
-- [ ] Charge batteries (phone, camera, laptop)
+- [ ] Charge batteries (phone, camera, laptop, power bank)
 - [ ] Enable phone for international travel
+- [ ] Buy gifts
 
 ## General
 - [ ] Towel
 - [ ] Bus or airline tickets
+- [ ] Gifts
 - [ ] One dot notebook
 - [ ] One normal notebook
 - [ ] Pocket notebook
 - [ ] Three pens
+- [ ] Sharpie marker
 - [ ] Dumb pen for plane
 - [ ] Wallet
 - [ ] Credit cards or loyalty cards (as needed)
 - [ ] Some checks from VSECU and Schwab
+- [ ] Foreign currencies
 - [ ] License
 - [ ] Passport
 - [ ] CDC card
@@ -28,24 +32,25 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Backpack rain cover
 - [ ] Nalgene
 - [ ] Cotton hat
-- [ ] International Driver's Permit
+- [ ] Baseball hat
 - [ ] Blank envelope for receipts
 - [ ] Gum
 - [ ] Meds
+- [ ] iPhone power bank with cables
 
 ## Clothing
 - [ ] Underwear
 - [ ] Socks
 - [ ] Wool socks
-- [ ] Jeans
+- [ ] Trousers
 - [ ] Belt
 - [ ] T-shirts
 - [ ] Nice shirt
+- [ ] Wool sweater
 - [ ] Hoodie
 - [ ] Clothing bag
 - [ ] Laundry bag
 - [ ] Rain jacket
-- [ ] Swim suit
 
 ## Toiletries
 - [ ] Contacts
@@ -60,16 +65,17 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Trim beard _or_ beard trimmer
 - [ ] Nail clippers
 - [ ] Towel (you already have your towel, right?)
-- [~] Sleeping mask
-- [ ] Chapstick
+- [ ] Sleeping mask
+- [ ] Chapstick (Ashley disapproves. Drink water, glib heathen.)
 - [ ] Toiletries airtight bag
 - [ ] Earplugs
-- [ ] Swimming ear plugs
 - [ ] Masks
+- [ ] Paper clips for masks
 
 ## Running
 - [ ] Running shoes
 - [ ] Running socks
+- [ ] Running shirts
 - [ ] Small headphones
 - [ ] Tennis ball
 - [ ] Lacrosse ball
@@ -114,12 +120,20 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 
 ## Camera equipage
 - [ ] Nikon D500
+- [ ] 200-500mm lens
+- [ ] Extra 500mm lens cap
+- [ ] 500mm padding
 - [ ] 55-300mm lens
 - [ ] 300mm lens shade
+- [ ] 35mm lens
+- [ ] Macro lens
 - [ ] Battery charger
+- [ ] USB for battery charger
+- [ ] Air pump
 - [ ] Lens cleaner
 - [ ] USB connector
 - [ ] UC-E22 cable or SD reader for transfer
+- [ ] Tripod
 
 ## Birding equipage
 - [ ] Binoculars
@@ -127,6 +141,7 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] AA batteries for Moth
 - [ ] Any relevant books or guides
 - [ ] Scope
+- [ ] Tripod
 
 ## Computer equipage
 - [ ] Power converter (for country)
@@ -155,4 +170,6 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Water pouches
 - [ ] Water purifier
 - [ ] Compass
+- [ ] Jet Boil coffee press
+- [ ] Carabiner
 
