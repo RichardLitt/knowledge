@@ -4,6 +4,7 @@ This is the list for what to do to close up shop and to get the house in shape b
 
 - [ ] Charge your batteries
 - [ ] Arrange for someone to water the plants while you're away
+- [ ] Arrange for someone to feed Eustace, your sourdough starter
 - [ ] Arrange for someone to collect your mail
 - [ ] Put the wash out to dry (don't leave anything in the dryer)
 - [ ] Clean the stove

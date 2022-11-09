@@ -11,6 +11,15 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Enable phone for international travel
 - [ ] Buy gifts
 
+## Backpack for Plane
+<!-- Reduplicated because these are the things you double check or forget most often, oddly. -->
+- [ ] Passport
+- [ ] Wallet
+- [ ] iPhone charger
+- [ ] Bose headphones
+- [ ] Bose headphones charger
+- [ ] Bose Headphones cable
+
 ## General
 - [ ] Towel
 - [ ] Bus or airline tickets
