@@ -258,4 +258,4 @@ rota Fortunae, n. the wheel of Fortune, from Boetheius
 salvific, adj. related to salvation
 Essene, sect of Jews at Qumran
 Davidic, adj. related to King David
-
+rônier palm, n. borassus aethiopum. Also called black rhun palm, ron palm, deleb palm. 
