@@ -6,45 +6,45 @@ This is the list for what to do to close up shop and to get the house in shape b
 - [ ] Arrange for someone to water the plants while you're away
 - [ ] Arrange for someone to feed Eustace, your sourdough starter
 - [ ] Arrange for someone to collect your mail
+- [ ] Offer your house to anyone who wants to escape to Vermont for X time.
+- [ ] Review any unreviewed books
+- [ ] Clear todos and relevant paperwork from desk
+- [ ] Give a spare key to the neighbors
+- [ ] Set up your audio mic and set appropriate times
+- [ ] Run the wash
+- [ ] Make your bed with clean sheets
 - [ ] Put the wash out to dry (don't leave anything in the dryer)
 - [ ] Clean the stove
 - [ ] Clean the counters
 - [ ] Clean the fridge
-- [ ] Turn off the oven and stove
 - [ ] Clean the dishes
 - [ ] Empty the compost
 - [ ] Clean the compost bucket
 - [ ] Take out the trash and recycling
-- [ ] Run the dishwasher
-- [ ] Clean the bathroom
-- [ ] Unplug the toaster and other appliances
-- [ ] Make sure that no taps are running
-- [ ] Make your bed with clean sheets
-- [ ] Water the plants
+- [ ] Pack up the car (look it over)
+- [ ] Re-park the car to be minimally obtrusive to neighbors
 - [ ] Get the mail
+- [ ] Run the dishwasher
+- [ ] Close the mousetraps
+- [ ] Clean the bathroom
+- [ ] Water the plants
 - [ ] Sweep
-- [ ] Set up your audio mic and set times
-- [ ] Give a spare key to the neighbors
+- [ ] Vacuum
 - [ ] Put fruit and butter in the fridge
 - [ ] Throw out milk and other perishables
 - [ ] Put bread in the freezer
+- [ ] Unplug the toaster and other appliances
 - [ ] Hide expensive electronics
-- [ ] Double check your packing list (passport? Foreign currencies?)
 - [ ] Tidy the house
-- [ ] Close the mousetraps
-- [ ] Turn off the heat
-- [ ] Turn off computer electronics
+- [ ] Enable phone for international travel
+- [ ] Pack
+- [ ] Pack food
 - [ ] Make sure the fireplace flu is closed
 - [ ] Close northerly and southern windows as plants require
 - [ ] Bring the bike in from outside
+- [ ] Double check your packing list (passport? Foreign currencies?)
+- [ ] Turn off computer electronics
+- [ ] Turn down the heat
+- [ ] Recheck all of the running taps
+- [ ] Turn off the oven and stove
 - [ ] Lock both door locks
-- [ ] Pack up the car (look it over)
-- [ ] Re-park the car to be minimally obtrusive to neighbors
-- [ ] Offer your house to anyone who wants to escape to Vermont for X time.
-- [ ] Enable phone for international travel
-- [ ] Pack food
-- [ ] Vacuum
-- [ ] Review any unreviewed books
-- [ ] Clear out all of the TODO items off of your desk
-- [ ] Pack
-- [ ] Figure out what to do with NFC mic

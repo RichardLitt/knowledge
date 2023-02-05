@@ -7,7 +7,7 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Hiking backpack
 
 ## Long Term Things To Do
-- [ ] Charge batteries (phone, camera, laptop, power bank)
+- [ ] Charge batteries (phone, camera, laptop, power bank, headphones)
 - [ ] Enable phone for international travel
 - [ ] Buy gifts
 
@@ -18,7 +18,7 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] iPhone charger
 - [ ] Bose headphones
 - [ ] Bose headphones charger
-- [ ] Bose Headphones cable
+- [ ] Bose headphones cable
 
 ## General
 - [ ] Towel
@@ -27,9 +27,10 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] One dot notebook
 - [ ] One normal notebook
 - [ ] Pocket notebook
+- [ ] Legal pad
 - [ ] Three pens
 - [ ] Sharpie marker
-- [ ] Dumb pen for plane
+- [ ] Small ruler
 - [ ] Wallet
 - [ ] Credit cards or loyalty cards (as needed)
 - [ ] Some checks from VSECU and Schwab
@@ -46,6 +47,8 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Gum
 - [ ] Meds
 - [ ] iPhone power bank with cables
+- [ ] Protein bars for plane
+- [ ] Business cards
 
 ## Clothing
 - [ ] Underwear
@@ -80,6 +83,7 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Earplugs
 - [ ] Masks
 - [ ] Paper clips for masks
+- [ ] Hand sanitizer
 
 ## Running
 - [ ] Running shoes
@@ -116,8 +120,6 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Scripts
 - [ ] One short novel
 - [ ] One business book
-- [ ] Kindle
-- [ ] Kindle charger
 - [ ] Latin textbook
 
 ## Skiing
@@ -157,17 +159,24 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Macbook (video needed)
 - [ ] External USB backup drive
 - [ ] Macbook charger
+- [ ] Macbook charger US duckhead
+- [ ] Macbook charger international duckhead
 - [ ] Phone
 - [ ] USB-B-micro cable
 - [ ] USB-A to lighting cable
 - [ ] USB-C to lighting cable
+- [ ] USB-C to USB-B adapter for Macbook Pro
 - [ ] USB port
 - [ ] Headphones
-- [ ] Snowball microphone (if video needed)
+- [ ] Portable microphone for podcasts
+- [ ] USB plug for portabl mic
 - [ ] Tripod for mic
 - [ ] External charger for iPhone
 - [ ] Oura charger
-
+- [ ] Ethernet cable
+- [ ] Ethernet cable connector
+- [ ] Handheld audio recorder
+- [ ] Lav mic
 
 ## Hiking
 - [ ] Stove
@@ -179,6 +188,22 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Water pouches
 - [ ] Water purifier
 - [ ] Compass
-- [ ] Jet Boil coffee press
+- [ ] Jetboil coffee press
 - [ ] Carabiner
+- [ ] Camelbak
+- [ ] Dry bag
+- [ ] Emergency blanket
+- [ ] Foam pad
+- [ ] Maps
+- [ ] Salt
+- [ ] Nuu tablets
 
+## Winter Hiking
+- [ ] Winter boots
+- [ ] Crampons
+- [ ] Yaktraks
+- [ ] Ski goggles
+- [ ] Toe warmers
+- [ ] Base layers
+- [ ] Mid layers
+- [ ] Outer layers
