@@ -27,19 +27,19 @@ This is the list for what to do to close up shop and to get the house in shape b
 - [ ] Run the dishwasher
 - [ ] Close the mousetraps
 - [ ] Clean the bathroom
-- [ ] Water the plants
-- [ ] Sweep
-- [ ] Vacuum
 - [ ] Put fruit and butter in the fridge
 - [ ] Throw out milk and other perishables
 - [ ] Put bread in the freezer
 - [ ] Unplug the toaster and other appliances
+- [ ] Water the plants
+- [ ] Make sure the fireplace flu is closed
+- [ ] Sweep
+- [ ] Vacuum
 - [ ] Hide expensive electronics
 - [ ] Tidy the house
 - [ ] Enable phone for international travel
 - [ ] Pack
 - [ ] Pack food
-- [ ] Make sure the fireplace flu is closed
 - [ ] Close northerly and southern windows as plants require
 - [ ] Bring the bike in from outside
 - [ ] Double check your packing list (passport? Foreign currencies?)
