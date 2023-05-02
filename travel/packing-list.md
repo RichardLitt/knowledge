@@ -35,6 +35,7 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Credit cards or loyalty cards (as needed)
 - [ ] Some checks from VSECU and Schwab
 - [ ] Foreign currencies
+- [ ] Yubikey
 - [ ] License
 - [ ] Passport
 - [ ] CDC card
@@ -169,7 +170,7 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] USB port
 - [ ] Headphones
 - [ ] Portable microphone for podcasts
-- [ ] USB plug for portabl mic
+- [ ] USB plug for portable mic
 - [ ] Tripod for mic
 - [ ] External charger for iPhone
 - [ ] Oura charger
