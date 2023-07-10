@@ -5,17 +5,18 @@
 - [ ] IS IT RECORDING
 - [ ] Is your computer charging?
 - [ ] Turn off VPN
-- [ ] Ask them to record their audio locally
-- [ ] We don't record video
+- [ ] Mute your phones and laptop notifications
+- [ ] Please mute yourself when not talking, please
+- [ ] 40 minute marks
 - [ ] Have you seen this before?
   - [ ] Generally focus on sustaining
   - [ ] Is there you'd feel would be a failure if we didn't mention it?
-- [ ] 40 minute marks
 - [ ] Check mics
+  - [ ] We don't record video
   - [ ] Make sure that you're using the right mic
-- [ ] Mute your phones and laptop notifications
-- [ ] Please mute yourself when not talking, please
-- [ ] EDIT
+  - [ ] If they ask about Zoom settigns: "Have them all turn off any noise reduction. It only makes their audio worse. I have better tools for that. Below my signature are the settings I tell people to use. :-) Don't use high fidelity mode, unless you have wicked fast internet are are connect via ethernet vs wifi." 
+  - [ ] Ask them to record their audio locally
+- [ ] How to use the edit
   - [ ] Pauses before answering
   - [ ] Swearing
   - [ ] Putting links in the chat
