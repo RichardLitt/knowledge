@@ -18,7 +18,7 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] iPhone charger
 - [ ] Bose headphones
 - [ ] Bose headphones charger
-- [ ] Bose headphones cable
+- [ ] Bose headphones audio cable
 
 ## General
 - [ ] Towel
@@ -64,6 +64,7 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Clothing bag
 - [ ] Laundry bag
 - [ ] Rain jacket
+- [ ] Flippy floppies!
 
 ## Toiletries
 - [ ] Contacts
@@ -102,6 +103,9 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Ear plugs
 - [ ] Goggles
 - [ ] Swimming cap
+- [ ] Booties
+- [ ] Wetsuit
+- [ ] Water shoes
 
 ## Winter Clothing
 - [ ] Winter pants
