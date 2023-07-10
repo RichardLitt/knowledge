@@ -259,3 +259,7 @@ salvific, adj. related to salvation
 Essene, sect of Jews at Qumran
 Davidic, adj. related to King David
 rônier palm, n. borassus aethiopum. Also called black rhun palm, ron palm, deleb palm. 
+foxing, adj. the reddening of black or gray areas as a result of breakdown of melanin in feathers
+taradiddle, n. a small lie
+mumia, n. ground mummies for medicine
+gussied up, v. /ˈɡʌs.i/ US informal often humorous. to make someone or something look more attractive or impressive:
