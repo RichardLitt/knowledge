@@ -1,0 +1,17 @@
+- [ ] Tent
+- [ ] Tent poles (if ultralight)
+- [ ] Sleeping bag
+- [ ] Sleeping pad
+- [ ] Sleeping liner
+- [ ] Backpack
+- [ ] Backpack rain cover
+- [ ] Hiking poles
+- [ ] Hiking boots
+- [ ] Flip-flops
+- [ ] Knife
+- [ ] Spoon
+- [ ] Fork
+- [ ] Gas
+- [ ] Jetboil
+- [ ] Cafetierre
+- [ ] 

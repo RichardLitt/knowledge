@@ -1,0 +1,30 @@
+# Going Birding Overnight
+
+- Prep gear for the car
+  - Food
+  - Water
+  - Snacks
+  - Pillow
+  - Duvet?
+- Owling
+  - Gloves
+  - Speaker
+- Birding
+  - Mic
+  - Camera
+  - Camera charger
+- Computer
+  - Computer
+  - Headphones
+  - Charger
+  - iPhone charger
+  - GoalZero
+  - iPhone GoalZero charger
+  - Headphone charger
+- Pen
+- Yellow pad
+- Journal
+- Put out birding mic
+  - Check that the Nuc is running
+  - Check that it is recording from the right source
+  - Check the sunset and sunrise times
