@@ -11,6 +11,7 @@
 - [ ] Have you seen this before?
   - [ ] Generally focus on sustaining
   - [ ] Is there you'd feel would be a failure if we didn't mention it?
+  - [ ] Anything we should steer clear of?
 - [ ] Check mics
   - [ ] We don't record video
   - [ ] Make sure that you're using the right mic

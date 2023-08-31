@@ -263,3 +263,4 @@ foxing, adj. the reddening of black or gray areas as a result of breakdown of me
 taradiddle, n. a small lie
 mumia, n. ground mummies for medicine
 gussied up, v. /ˈɡʌs.i/ US informal often humorous. to make someone or something look more attractive or impressive:
+remand, v. 
