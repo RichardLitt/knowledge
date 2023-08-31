@@ -13,3 +13,19 @@ There are puffins, but I've never seen one. I always seem to visit in winter.
 If you like folk music, let me know. I can connect you to a local session.
 
 That's really the limit of my experience there. I wish I had more to offer! I've mostly just... driven around with my friend, hung out downtown, had a few drinks, and chased birds on my eBird alerts. :) I love Iceland. Hitching from the airport into town is easy, but, to be honest, you should rent a car if you can while you're there. It's so much easier to get out of Reykjavik, and so much cooler once you've done so.
+
+## Westfjords
+
+_The following is from my friend Hugi. I haven't been here yet._
+
+My recommendation, if departing from Reykjavík:
+- Start the day early at 8 AM, drive from Reykjavik and take the scenic route around the Snæfellsnes peninsula to Stykkishólmur. Spend that day exploring that peninsula, stopping wherever you see cool stuff. Definitely make sure to drive all the way around the peninsula, through the national park. End at Stykkishólmur and spend the night there.
+- Next morning take the car ferry across from Stykkishólmur to Brjánslækur. Drive the circle around that peninsula, and make sure to schedule at least 3-4 hours for the drive to Látrarbjarg and back. Make sure to look on Google maps to find the hot springs (open air freely accessible natural thermal baths).
+- Next day, drive north towards Ísafjörður and make sure to plan a stop at Dynjandi cascading waterfalls. Staying at Ísafjörður is nice, it’s a weird and cozy little town.
+
+Having a good time in Iceland is also about adapting to the weather, so make sure to check forecasts before heading out. For example, the roads out to Látrarbjarg are pretty rough. We drove them on a 20 year old Volkswagen, and it was fine on a sunny day, but we would have been in trouble if there had been a sudden change in weather.
+
+![](screenshot_2023-08-31_at_15.21.07_720.png)
+![](screenshot_2023-08-31_at_15.26.37_720.png)
+![](screenshot_2023-08-31_at_15.34.35_720.png)
+![](screenshot_2023-08-31_at_15.35.34_720.png)
