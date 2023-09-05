@@ -124,3 +124,28 @@ I use an editor. This is from him. Typically, for a 45 minute show, he charges $
 > When using a mic. 99% of podcasters are WAY too far from it. Especially using Zoom, they tend to focus on the video part and not pay attention to the audio quality. I would want you NO further then a “hang ten” sign (like you make with your hand) away from the mic. I’ve been doing this for 25+ years. When we mic people in our studios, they are usually only an inch or 2 from the mic. It’s the difference between sounding like you recorded in a studio (within a hang ten sign away)…to sounding like you recorded it in your bathroom (a foot away or more). We have stuff that can tighten it up. But there are always tradeoffs when we have to do it. So get close to the mic. :-) It’s weird at first, but you will get used to it.
 
 > Length of podcast. Shorter is better. Shoot for 45 minutes or under. Why??! A typical podcast we edit loses 10% of it’s original listening audience for every 10 minutes of run time. So a 45 minute podcast will have lost 45% of it’s original audience by then end of the podcast. We do a lot of BIG network level podcasts. Almost all of them are around 30 minutes…and a few creep into 40 minutes. The idea also is to keep these “commuter length”. So someone driving into work can listen to the entire podcast on their way to work and finish it. 
+
+
+# Equipment
+
+### Travel equipment
+
+For travel equipment, I use the following. This is from my editor: 
+
+> Recoding 2 mics at the same time without a bunch of equipment is a little trickier. Tried to find you something without having to haul around and audio interface and XLR mics. LOL. 
+
+> [2- Rode NT-USB minis](https://www.amazon.com/Rode-NT-USB-Mini-Microphone-Detachable-Headphone/dp/B084P1CXFD/ref=sr_1_5?gclid=Cj0KCQiAw8OeBhCeARIsAGxWtUy6mtsJcfS58UyVwJXBDaQ5fJ3aB2TVrRcGpx9UZsceJmfBbVFQvwcaArWcEALw_wcB&hvadid=446452576243&hvdev=c&hvlocphy=9010767&hvnetw=g&hvqmt=b&hvrand=4107419796293169204&hvtargid=kwd-962254363327&hydadcr=8321_11334587&keywords=rode+nt+usb+mini+usb+microphone&qid=1674657981&sr=8-5&ufe=app_do:amzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc)
+
+> This is about the size of the palm of your hand. 
+
+> [Rode Connect Software](https://rode.com/en-us/software/rodeconnect)
+
+> This is free and not optional. Recording 2 USB based mics at the same time is almost impossible without it. The software is super powerful. You can record directly into it, you won’t need to use Audacity. Be sure to chose multi channel recording in the settings, that way each of you is on a separate audio track. There will be lots of “mic bleed” otherwise since you are both in the same room. OR..and this is cool about this software…you can connect it to Zoom. So if you want to have another panelist on with the both of you…you can. There is a good explainer video [HERE](https://www.youtube.com/watch?v=DPEl_g50B9E) that may help give you a walk through. I can work with you if you want to do a dry run.
+
+> Hope that helps. The 2 mics should be under $200.
+
+For mic stands, I use [this.](https://www.amazon.com/gp/product/B09SZ83V41?ref_=pe_1811570_136791410_E_Asin_Title)
+
+## At home
+
+At home, I have a larger setup. Let me know if you want me to link to that.
