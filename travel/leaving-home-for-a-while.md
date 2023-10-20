@@ -44,7 +44,8 @@ This is the list for what to do to close up shop and to get the house in shape b
 - [ ] Bring the bike in from outside
 - [ ] Double check your packing list (passport? Foreign currencies?)
 - [ ] Turn off computer electronics
-- [ ] Turn down the heat
+- [ ] Turn down the heat and turn off the air filter
+- [ ] Bring food in freezer bag
 - [ ] Recheck all of the running taps
 - [ ] Turn off the oven and stove
-- [ ] Lock both door locks
+- [ ] Lock the door
