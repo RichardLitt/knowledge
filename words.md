@@ -1,5 +1,7 @@
 # Words
 
+wickiup, n. a structure for survival in the north. like a teepee
+
 
 
 TODO Automatically add words from book notes
@@ -264,3 +266,9 @@ taradiddle, n. a small lie
 mumia, n. ground mummies for medicine
 gussied up, v. /ˈɡʌs.i/ US informal often humorous. to make someone or something look more attractive or impressive:
 remand, v. 
+dammar, n. an expensive spice from Egypt
+canopic, adj. canopic jars for storing intestines in from mummification process
+Saqqara, n. the priestly centre of embalming in Egypt
+natron, n. a sacred salt
+boosterism, n. the enthusiastic promotion of a person, organization, or cause.
+celadon, n. a green color, like jade, for pottery
