@@ -1,5 +1,6 @@
 # Words
 
+
 wickiup, n. a structure for survival in the north. like a teepee
 
 
@@ -272,3 +273,9 @@ Saqqara, n. the priestly centre of embalming in Egypt
 natron, n. a sacred salt
 boosterism, n. the enthusiastic promotion of a person, organization, or cause.
 celadon, n. a green color, like jade, for pottery
+demersal, adj. living near the bottom of the lake or a sea
+annealing, n. to cool glass to temper it
+rheotaxis, n. how a fish knows to swim upstream
+gular, adj. skin that joins the lower mandible to a bird's neck.
+dysthymia, n. permanent depresseion
+bastarda, n. a blackletter script used in France, the Burgundian Netherlands and Germany during the 14th and 15th centuries.
