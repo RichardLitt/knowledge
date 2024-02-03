@@ -98,6 +98,10 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Squash ball
 - [ ] Running shorts
 
+## Gym Equipment
+- [ ] Sliders
+- [ ] Yoga mat
+
 ## Swimming
 - [ ] Swim suit
 - [ ] Ear plugs
@@ -167,10 +171,10 @@ _Note: **At least once** you have gone through this entire list, and failed to i
 - [ ] Macbook charger US duckhead
 - [ ] Macbook charger international duckhead
 - [ ] Phone
-- [ ] USB-B-micro cable
-- [ ] USB-A to lighting cable
-- [ ] USB-C to lighting cable
-- [ ] USB-C to USB-B adapter for Macbook Pro
+- [ ] USB-B-micro cable ![[Screenshot 2023-10-20 at 16.07.56.png]]
+- [ ] USB-A to lighting cable![[Screenshot 2023-10-20 at 16.08.49.png]]
+- [ ] USB-C to lighting cable![[Screenshot 2023-10-20 at 16.09.28.png]]
+- [ ] USB-C to USB-B adapter for Macbook Pro![[Screenshot 2023-10-20 at 16.09.50.png]]
 - [ ] USB port
 - [ ] Headphones
 - [ ] Portable microphone for podcasts
