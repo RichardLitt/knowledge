@@ -1,4 +1,5 @@
 ## Checklist for starting the Sustain podcast
+
 - [ ] Thank your guest for coming on the platform
 - [ ] Ask the guest how they are feeling; we can always reschedule.
 - [ ] Grab a glass of water and invite the guest to do the same.
@@ -41,8 +42,10 @@
 
 ## After the podcast
 - [ ] Email us podcast@sustainoss.org if you have any feedback
-- [ ] Rate us on Apple Podcast or Spotify
-- [ ] Follow us on Twitter @sustainoss
+- [ ] Reach out to me at richard@sustainoss.org
+- [ ] Rate us on Apple Podcast, Spotify, etc.
+- [ ] Follow us on Mastodon and LinkedIn
 - [ ] Join our Discourse at discourse.sustainoss.org.
-- [ ] Find more episodes and the shownotes at sosdpodcast.sustainoss.org. 
+- [ ] Find more episodes and the shownotes at podcast.sustainoss.org.
+- [ ] Donate at https://opencollective.com/sustainoss
 
