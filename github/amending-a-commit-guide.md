@@ -30,7 +30,7 @@ However, for things like spelling edits, line removals, or general small nitpick
 
 ### Option 2: Manually add changes, amend, and force push
 
-This is where force pushing comes in. While most git guides tell you that "Force pushing is the worst thing in the world, and it makes you a Sith Lord if you use them, and we will find you and hunt you down", really, it makes sense in situations where a commit on a non-merged PR should be changed. No one is going to be touching that PR, so you don't have to worry about dirtying past history. The only person likely to be touching that branch will be you.
+This is where force pushing comes in. While most git guides tell you that "Force pushing is the worst thing in the world, and it makes you a Sith Lord if you use it, and we will find you and hunt you down", really, it makes sense in situations where a commit on a non-merged PR should be changed. No one is going to be touching that PR, so you don't have to worry about dirtying past history. The only person likely to be touching that branch will be you.
 
 A lot of people complain that then the comments made by the maintainers will be lost. Technically, they are saved on GitHub in outdated diffs, if anyone wants to see them, although they won't be in the git history itself (which makes them less accessible and useful). But, more relevantly, they often aren't that important. Is it important that a maintainer told you to remove a trailing space? I don't think so. Most maintainers I know would agree with me.
 
@@ -156,7 +156,7 @@ When you type `git checkout -p HEAD~1`, it will give you an option for each hunk
 
 If you would like a line to stay in your commit, replace the `-` in front of it with a space. If you would like a line that was deleted to be removed, simply delete it (in vi, you can do this by typing `dd` while on that line). This might take a bit of mental work to get used to, as removing a line while checking out a previous commit is the same as effectively keeping the line in the current commit. If you ever have any difficulty, you can restart the process by doing `git reset --hard`.
 
-Once you have removed the lines which you wanted to - say, for instance, lines which where you had accidentally changed a word - add the new changes to the staging area by typing `git add -A`. Then, commit them using the amend function we mentioned prior, and finally, force push them. It might be smart to look at the commit diff from the previous commit before force pushing: do this by diffing the two commits with `git diff HEAD~1..`. Then:
+Once you have removed the lines which you wanted to - say, for instance, lines where you had accidentally changed a word - add the new changes to the staging area by typing `git add -A`. Then, commit them using the amend function we mentioned prior, and finally, force push them. It might be smart to look at the commit diff from the previous commit before force pushing: do this by diffing the two commits with `git diff HEAD~1..`. Then:
 
 ```sh
 $ git add -A  
